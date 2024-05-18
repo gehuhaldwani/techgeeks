@@ -2,3 +2,4 @@ public
 .hugo_build.lock
 .vscode
 node_modules
+.frontmatter
