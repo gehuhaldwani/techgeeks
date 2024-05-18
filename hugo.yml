@@ -14,6 +14,25 @@ outputs:
     - "JSON"
 
 params:
+  title: "TechGeeks Club"
+  description: "TechGeeks is the offical tech club of Graphic Era Hill University, Haldwani Campus."
+  keywords:
+    [
+      "TechGeeks",
+      "Tech Club",
+      "Graphic Era Hill University",
+      "Haldwani Campus",
+      "Technology",
+      "Tech Enthusiasts",
+      "Tech Geeks",
+      "Tech Club",
+      "Tech Club in Haldwani",
+      "Tech Club in GEHU",
+      "Tech Club in GEHU Haldwani",
+      "Tech Club in Graphic Era Hill University",
+      "Tech Club in Graphic Era Hill University Haldwani",
+    ]
+  images: ["images/cover.jpg"]
   assets:
     favicon: "icons/favicon.ico"
     favicon16x16: "icons/favicon-16x16.png"
