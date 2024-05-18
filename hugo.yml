@@ -32,7 +32,7 @@ params:
       "Tech Club in Graphic Era Hill University",
       "Tech Club in Graphic Era Hill University Haldwani",
     ]
-  images: ["images/cover.jpg"]
+  images: ["images/logo/color.png", "images/logo/white.png"]
   assets:
     favicon: "icons/favicon.ico"
     favicon16x16: "icons/favicon-16x16.png"
@@ -44,8 +44,9 @@ params:
       dark: "images/logo/white.svg"
   homeInfoParams:
     title: "TechGeeks Club"
-    coverImage: "images/cover.jpg"
     content: |
+      ![TechGeeks Club](images/cover.jpg)
+      \
       TechGeeks is the offical tech club of Graphic Era Hill University, Haldwani Campus.\
       \
       We are a group of tech enthusiasts who love to explore the world of technology and share our knowledge with the world.
