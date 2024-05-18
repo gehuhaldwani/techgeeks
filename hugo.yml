@@ -1,0 +1,59 @@
+baseURL: "https://example.org/"
+languageCode: "en-in"
+title: "TechGeeks"
+theme: "PaperMod"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - "HTML"
+    - "JSON"
+
+params:
+  assets:
+    favicon: "icons/favicon.ico"
+    favicon16x16: "icons/favicon-16x16.png"
+    favicon32x32: "icons/favicon-32x32.png"
+    apple_touch_icon: "icons/apple-touch-icon.png"
+  label:
+    icon:
+      light: "images/logo/color.svg"
+      dark: "images/logo/white.svg"
+  homeInfoParams:
+    title: "TechGeeks Club"
+    coverImage: "images/cover.jpg"
+    content: |
+      TechGeeks is the offical tech club of Graphic Era Hill University, Haldwani Campus.\
+      \
+      We are a group of tech enthusiasts who love to explore the world of technology and share our knowledge with the world.
+  socialIcons:
+    - name: "instagram"
+      url: "https://www.instagram.com/techgeeks_club/"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/company/techgeeksclub/"
+    - name: "telegram"
+      url: "https://t.me/techgeeksclub"
+
+  ShowBreadCrumbs: true
+  cover:
+    linkFullImages: true
+    responsiveImages: true
+
+menu:
+  main:
+    # - identifier: "categories"
+    #   name: "Categories"
+    #   url: "/categories/"
+    #   weight: 10
+    # - identifier: "tags"
+    #   name: "Tags"
+    #   url: "/tags/"
+    #   weight: 20
+    - identifier: "archives"
+      name: "Archives"
+      url: "/archives/"
+      weight: 30
