@@ -27,7 +27,9 @@ Giant virtual snake and ladder game. Registration to be on the spot.
 ### Intercampus BGMI:
 
 Battlegrounds Mobile India e-gaming tournament organized in collaboration with Dehradun Crew Club and Tech Geek Club.
-![](images/bgmi_2.0_poster.jpg)
+
+![](/techgeeks/images/bgmi_2_poster.jpg)
+
 And much more! activities.
 
 Mark your calendars now for September 15, 2023 and get ready for a day jam-packed with digital entertainment and discovery.
