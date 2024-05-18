@@ -7,7 +7,7 @@ tags:
   - Tekken
   - eSports
 cover:
-  image: /images/retro_rumble_poster.jpg
+  image: images/retro_rumble_poster.jpg
 ---
 
 Retro Rumble: A Day of Tekken 3 Nostalgia

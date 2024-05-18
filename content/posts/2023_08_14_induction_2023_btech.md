@@ -1,7 +1,7 @@
 ---
 title: "Induction 2023 B.Tech"
 cover:
-  image: /images/induction23/IMG_0127.jpg
+  image: images/induction23/IMG_0127.jpg
 date: 2023-08-14
 draft: false
 author: "Tech Geeks"

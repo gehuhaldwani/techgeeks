@@ -1,7 +1,7 @@
 ---
 title: "CodeNova"
 cover:
-  image: /images/codenova_poster.jpg
+  image: images/codenova_poster.jpg
 date: 2023-08-27
 draft: false
 author: "Tech Geeks"
