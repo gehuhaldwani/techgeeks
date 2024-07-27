@@ -2,6 +2,7 @@
 title: "Certificates Released for EXTRAVAGANZA SUMMER FEST 2024"
 pubDatetime: 2024-05-17
 draft: false
+featured: true
 author: "Tech Geeks"
 description: "Certificates for the participants and volunteers of EXTRAVAGANZA SUMMER FEST 2024 have been released. You can download your certificates from the links below."
 tags:

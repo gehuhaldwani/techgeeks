@@ -29,10 +29,14 @@ const {
 	scrollSmooth = false,
 } = Astro.props;
 
-const socialImageURL = new URL(
+var socialImageURL = new URL(
 	ogImage ?? SITE.ogImage ?? "og.png",
 	Astro.url.origin
 ).href;
+
+socialImageURL = socialImageURL?.startsWith("http")
+	? socialImageURL
+	: `${SITE.base}/${socialImageURL}`;
 
 const structuredData = {
 	"@context": "https://schema.org",
