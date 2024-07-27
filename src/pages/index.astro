@@ -9,6 +9,8 @@ import Card from "@components/Card.astro";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SITE, SOCIALS } from "@config";
+import { Image } from "astro:assets";
+import coverImage from "@assets/cover.jpg";
 
 const posts = await getCollection("blog");
 
@@ -24,7 +26,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 	<main id="main-content">
 		<section id="hero">
 			<h1>TechGeeks Club</h1>
-			<img src={`${SITE.base}/images/cover.jpg`} class="cover" />
+			<Image src={coverImage} alt="cover" loading="eager" />
 			<p>
 				TechGeeks is the offical tech club of Graphic Era Hill University,
 				Haldwani Campus.
@@ -134,5 +136,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
 	.cover {
 		border-radius: 0.5em;
+	}
+
+	img {
+		@apply rounded-lg;
 	}
 </style>

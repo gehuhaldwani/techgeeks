@@ -3,6 +3,7 @@ import { slugifyStr } from "@utils/slugify";
 import DateTime from "@components/search/Datetime.tsx";
 import type { CollectionEntry } from "astro:content";
 import { SITE } from "@config";
+import { Image } from "astro:assets";
 
 interface Props {
 	href?: string;
@@ -15,11 +16,6 @@ const { href, frontmatter, showCoverImage = true } = Astro.props;
 const { title, author, description, ogImage, pubDatetime, modDatetime } =
 	frontmatter;
 
-const headerProps = {
-	style: { viewTransitionName: slugifyStr(title) },
-	class: "text-xl font-medium decoration-dashed hover:underline",
-};
-
 var showImage: boolean = showCoverImage;
 
 if (ogImage === undefined) {
@@ -31,21 +27,30 @@ var ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 ogImageUrl = ogImageUrl?.startsWith("http")
 	? ogImageUrl
 	: `${SITE.base}/${ogImageUrl}`;
-
-const imageProps = {
-	src: ogImageUrl,
-	alt: title,
-	style: { viewTransitionName: slugifyStr(ogImageUrl) },
-};
 ---
 
 <div class="card">
-	{showImage ? <img {...imageProps} /> : null}
+	{
+		showImage ? (
+			<Image
+				src={ogImageUrl}
+				alt={title}
+				height={1}
+				width={1}
+				loading={"eager"}
+				style={`view-transition-name: ${slugifyStr(ogImageUrl)}`}
+			/>
+		) : null
+	}
+
 	<a
 		class="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
 		href={href}
 	>
-		<h2 {...headerProps}>
+		<h2
+			class="text-xl font-medium decoration-dashed hover:underline"
+			style={`view-transition-name: ${slugifyStr(title)}`}
+		>
 			{title}
 		</h2>
 	</a>

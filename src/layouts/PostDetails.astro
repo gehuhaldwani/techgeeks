@@ -8,6 +8,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
+import { Image } from "astro:assets";
 
 export interface Props {
 	post: CollectionEntry<"blog">;
@@ -89,8 +90,11 @@ const layoutProps = {
 		{
 			showImage ? (
 				<a href={ogImageUrl} target="_blank">
-					<img
+					<Image
 						src={ogImageUrl}
+						alt={title}
+						height={1}
+						width={1}
 						loading="eager"
 						transition:name={slugifyStr(ogImageUrl)}
 					/>
@@ -134,7 +138,7 @@ const layoutProps = {
 		@apply text-4xl font-bold text-skin-accent;
 	}
 	img {
-		border-radius: 0.5em;
+		@apply mb-4 max-h-96 w-full rounded-lg object-cover;
 	}
 </style>
 
