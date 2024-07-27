@@ -7,18 +7,16 @@
   html[data-theme="light"] {
     --color-fill: 245, 245, 245;
     --color-text-base: 30, 30, 30;
-    --color-accent: 78, 171, 233;
+    --color-accent: 00, 174, 239;
     --color-card: 255, 255, 255;
     --color-card-muted: 205, 205, 205;
-    --color-accent: 78, 171, 233;
   }
   html[data-theme="dark"] {
     --color-fill: 19, 19, 20;
     --color-text-base: 218, 218, 219;
-    --color-accent: 78, 171, 233;
+    --color-accent: 00, 174, 239;
     --color-card: 27, 27, 27;
     --color-card-muted: 77, 77, 77;
-    --color-accent: 78, 171, 233;
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
