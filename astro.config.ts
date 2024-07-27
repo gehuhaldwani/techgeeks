@@ -7,8 +7,6 @@ import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 import svelte from "@astrojs/svelte";
 
-import min from "astro-min";
-
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
@@ -20,7 +18,6 @@ export default defineConfig({
     react(),
     sitemap(),
     svelte(),
-    min(),
   ],
   markdown: {
     remarkPlugins: [
