@@ -19,7 +19,7 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 # Default to bash
 defaults:
@@ -39,7 +39,7 @@ jobs:
           submodules: recursive
 
       - name: Setup Pages
-        id: pages
+        uses: actions/configure-pages@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
