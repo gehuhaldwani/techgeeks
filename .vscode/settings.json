@@ -1,5 +1,8 @@
 {
     "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/laksh/Documents/programming/web/techgeeks/.gtihub/workflows/depoy.yaml"
+        "https://json.schemastore.org/github-workflow.json": [
+            "file:///c%3A/Users/laksh/Documents/programming/web/techgeeks/.gtihub/workflows/depoy.yaml",
+            "file:///c%3A/Users/laksh/Documents/programming/astro/techgeeks/.gtihub/workflows/deploy.yml"
+        ]
     }
 }
