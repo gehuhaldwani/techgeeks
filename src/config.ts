@@ -41,19 +41,19 @@ export const SOCIALS: SocialObjects = [
   // },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/techgeeks_club/",
+    href: "https://www.instagram.com/techgeeksgehu/",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/company/techgeeksclub/",
+    href: "https://www.linkedin.com/company/techgeeksgehu/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:techgeeks@gmail.com",
+    href: "mailto:techgeeksclub@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },

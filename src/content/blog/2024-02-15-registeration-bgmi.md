@@ -4,7 +4,7 @@ pubDatetime: 2024-02-15
 draft: false
 author: "Tech Geeks"
 tags: ["BGMI", "eSports"]
-description: "Calling all gamers! Brace yourself for the BGMI Virtual Warzone at GEHU HALDWANI from 16 February. Engage in intense battles, showcase your skills, and compete for glory in this exhilarating inter-university esports tournament. With a Cash prize of 30k, trophies and 3 lucky draw winners. Register yourself or your squad ASAP!"
+description: "Calling all gamers! Brace yourself for the BGMI Virtual Warzone at GEHU HALDWANI from 16 February. With a Cash prize of 30k, trophies and 3 lucky draw winners."
 ---
 
 ## 🎮 Calling all gamers! Brace yourself for the BGMI Virtual Warzone at GEHU HALDWANI from 16 February
