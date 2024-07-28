@@ -9,6 +9,7 @@ import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
 import { Image } from "astro:assets";
+import generateUrlWithSiteBase from "@utils/generateUrlWithSiteBase";
 
 export interface Props {
 	post: CollectionEntry<"blog">;
@@ -31,15 +32,14 @@ const { Content } = await post.render();
 
 var showImage: boolean = true;
 
+var ogImageUrl;
+
 if (ogImage === undefined) {
 	showImage = false;
+} else {
+	ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
+	ogImageUrl = generateUrlWithSiteBase(ogImageUrl, Astro.url);
 }
-
-var ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
-
-ogImageUrl = ogImageUrl?.startsWith("http")
-	? ogImageUrl
-	: `${SITE.base}/${ogImageUrl}`;
 
 const ogUrl = new URL(
 	ogImageUrl ?? `${SITE.base}/posts/${slugifyStr(title)}.png`,

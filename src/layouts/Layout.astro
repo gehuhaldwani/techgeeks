@@ -1,6 +1,7 @@
 ---
 import { LOCALE, SITE } from "@config";
 import "@styles/base.css";
+import generateUrlWithSiteBase from "@utils/generateUrlWithSiteBase";
 import { ViewTransitions } from "astro:transitions";
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
@@ -29,14 +30,9 @@ const {
 	scrollSmooth = false,
 } = Astro.props;
 
-var socialImageURL = new URL(
-	ogImage ?? SITE.ogImage ?? "og.png",
-	Astro.url.origin
-).href;
+var socialImageURL = ogImage ?? SITE.ogImage ?? "og.png";
 
-socialImageURL = socialImageURL?.startsWith("http")
-	? socialImageURL
-	: `${SITE.base}/${socialImageURL}`;
+socialImageURL = generateUrlWithSiteBase(socialImageURL, Astro.url);
 
 const structuredData = {
 	"@context": "https://schema.org",
