@@ -53,7 +53,7 @@ const layoutProps = {
 	pubDatetime,
 	modDatetime,
 	canonicalURL,
-	ogImage: ogUrl,
+	ogImage: showImage ? ogUrl : SITE.ogImage,
 	scrollSmooth: true,
 };
 ---
