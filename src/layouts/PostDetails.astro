@@ -64,7 +64,7 @@ const layoutProps = {
 	<div class="mx-auto flex w-full max-w-3xl justify-start px-2">
 		<button
 			class="focus-outline mb-2 mt-8 flex hover:opacity-75"
-			onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"
+			onclick="(() => (history.length === 1) ? window.location = SITE.base : history.back())()"
 		>
 			<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor"
 				><path
