@@ -88,7 +88,7 @@ const layoutProps = {
 
 		<div class="h-10"></div>
 		{
-			showImage ? (
+			showImage && ogImageUrl ? (
 				<a href={ogImageUrl} target="_blank">
 					<Image
 						src={ogImageUrl}
