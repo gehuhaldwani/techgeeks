@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://gehuhaldwani.github.io",
-  base: "/techgeeks",
+  base: "/",
   author: "TechGeeks Team",
   profile: "",
   desc: "TechGeeks is the offical tech club of Graphic Era Hill University, Haldwani Campus.",
