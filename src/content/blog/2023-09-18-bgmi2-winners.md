@@ -3,7 +3,7 @@ title: "BGMI 2.0 Winners: MPG Esports"
 description: MPG Esports, the triumphant victors of BGMI 2.0, emerged as the
   indomitable champions of the intercampus esports spectacle.
 author: Tech Geeks
-pubDatetime: 2024-08-23T23:30:00.000Z
+pubDatetime: 2023-09-17T13:00:00.000Z
 featured: false
 draft: false
 tags:
