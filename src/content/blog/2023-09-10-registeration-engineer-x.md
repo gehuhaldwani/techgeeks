@@ -1,15 +1,16 @@
 ---
 title: "EngineerX: A Day of Digital Discovery"
-ogImage: images/engineer_x_poster.jpg
-pubDatetime: 2023-09-10
-draft: false
+description: Get ready for an action-packed day full of digital entertainment at
+  our upcoming A Day of Digital Discovery event on September 15, 2023.
 author: Tech Geeks
+pubDatetime: 2023-09-10T08:30:00.000Z
+featured: false
+draft: false
 tags:
   - BGMI
   - eSports
-description: Get ready for an action-packed day full of digital entertainment at our upcoming A Day of Digital Discovery event on September 15, 2023.
+ogImage: images/engineer_x_poster.jpg
 ---
-
 Get ready for an action-packed day full of digital entertainment at our upcoming A Day of Digital Discovery event on September 15, 2023. This exciting event will feature the following competitions and activities:
 
 ### Rapid Fire and Buzzer Round:
