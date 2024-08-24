@@ -1,1 +1,38 @@
-media: public/images
+media:
+  input: public/images
+  output: /techgeeks/images
+
+content:
+  - name: posts
+    label: Posts
+    path: src/content/blog
+    type: collection
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: description, label: Description, type: string, required: true }
+      - {
+          name: author,
+          label: Author,
+          type: string,
+          required: true,
+          default: "TechGeeks",
+        }
+      - { name: pubDatetime, label: Published Date, type: date, required: true }
+      - { name: modDatetime, label: Modified Date, type: date, required: false }
+      - {
+          name: featured,
+          label: Featured,
+          type: boolean,
+          required: false,
+          default: false,
+        }
+      - {
+          name: draft,
+          label: Draft,
+          type: boolean,
+          required: false,
+          default: false,
+        }
+      - { name: tags, label: Tags, type: list, required: false }
+      - { name: ogImage, label: Open Graph Image, type: image, required: false }
+      - { name: body, label: Body, type: rich-text, required: true }
