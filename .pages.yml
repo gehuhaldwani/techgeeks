@@ -22,7 +22,7 @@ content:
           label: Published Date,
           type: date,
           required: true,
-          options: { time: true },
+          options: { time: true, format: yyyy-MM-dd'T'HH:mm:ss.SSSX },
         }
 
       - {
@@ -30,7 +30,7 @@ content:
           label: Modified Date,
           type: date,
           required: false,
-          options: { time: true },
+          options: { time: true, format: yyyy-MM-dd'T'HH:mm:ss.SSSX },
         }
       - {
           name: featured,
@@ -46,6 +46,6 @@ content:
           required: false,
           default: false,
         }
-      - { name: tags, label: Tags, type: string, required: false }
+      - { name: tags, label: Tags, type: list, required: false }
       - { name: ogImage, label: Open Graph Image, type: image, required: false }
       - { name: body, label: Body, type: rich-text, required: true }
