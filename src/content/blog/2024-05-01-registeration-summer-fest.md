@@ -1,12 +1,20 @@
 ---
-title: "Registeration for EXTRAVAGANZA SUMMER FEST 2024"
-pubDatetime: 2024-05-01
+title: Registeration for EXTRAVAGANZA SUMMER FEST 2024
+description: Tech Geeks Club, invites you to register for the upcoming gaming
+  tournaments as part of the EXTRAVAGANZA SUMMER FEST 2024. Show off your
+  skills, compete with the best, and emerge victorious in the ultimate gaming
+  showdown!
+author: Tech Geeks
+pubDatetime: 2024-05-01T06:30:00.000Z
+featured: false
 draft: false
-author: "Tech Geeks"
-tags: ["eSports", "Tekken", "BGMI", "Free Fire", "Summer Fest 2024"]
-description: "Tech Geeks Club, invites you to register for the upcoming gaming tournaments as part of the EXTRAVAGANZA SUMMER FEST 2024. Show off your skills, compete with the best, and emerge victorious in the ultimate gaming showdown!"
+tags:
+  - eSports
+  - Tekken
+  - BGMI
+  - Free Fire
+  - Summer Fest 2024
 ---
-
 ![](/techgeeks/images/summer_fest/mobile_warefare_poster.jpg)
 
 ## 📱💥 Mobile Warfare: GEHU BGMI Tournament - Register Now! 💥📱
@@ -15,13 +23,13 @@ Get your phones ready for the ultimate battleground showdown! Graphic Era Hill U
 
 #### Event Details:
 
-- Date: 10th May 2024
-- Venue: Lab 2
-- Fee: ₹240/-
+*   Date: 10th May 2024
+*   Venue: Lab 2
+*   Fee: ₹240/-
 
-https://forms.gle/AfcaHZcKKV8Z6GJs8
+[https://forms.gle/AfcaHZcKKV8Z6GJs8](https://forms.gle/AfcaHZcKKV8Z6GJs8)
 
-<hr/>
+* * *
 
 ![](/techgeeks/images/summer_fest/inferno_clash_poster.jpg)
 
@@ -31,13 +39,13 @@ Prepare to ignite the battlegrounds with blazing intensity! Graphic Era Hill Uni
 
 #### Event Details:
 
-- Date: 11th May 2024
-- Venue: Lab 2 & 3
-- Fee: ₹240/-
+*   Date: 11th May 2024
+*   Venue: Lab 2 & 3
+*   Fee: ₹240/-
 
-https://forms.gle/mPvZzJQJYnAw7EEx9
+[https://forms.gle/mPvZzJQJYnAw7EEx9](https://forms.gle/mPvZzJQJYnAw7EEx9)
 
-<hr/>
+* * *
 
 ![](/techgeeks/images/summer_fest/king_of_iron_fist_poster.jpg)
 
@@ -47,8 +55,8 @@ Prepare to enter the arena and prove your mastery in the legendary "King of Iron
 
 #### Event Details:
 
-- Date: 10th May 2024
-- Venue: LT 1
-- Fee: ₹50/-
+*   Date: 10th May 2024
+*   Venue: LT 1
+*   Fee: ₹50/-
 
-https://forms.gle/USbwKPPveY3RmXaM8
+[https://forms.gle/USbwKPPveY3RmXaM8](https://forms.gle/USbwKPPveY3RmXaM8)
