@@ -4,6 +4,7 @@ import DateTime from "@components/search/Datetime.tsx";
 import type { CollectionEntry } from "astro:content";
 import { SITE } from "@config";
 import { Image } from "astro:assets";
+import generateUrlWithSiteBase from "@utils/generateUrlWithSiteBase";
 
 interface Props {
 	href?: string;
@@ -24,9 +25,8 @@ if (ogImage === undefined) {
 
 var ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 
-ogImageUrl = ogImageUrl?.startsWith("http")
-	? ogImageUrl
-	: `${SITE.base}/${ogImageUrl}`;
+if (ogImageUrl)
+	ogImageUrl = generateUrlWithSiteBase(ogImageUrl, Astro.url);
 ---
 
 <div class="card">
