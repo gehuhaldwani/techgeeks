@@ -2,7 +2,6 @@
 import { slugifyStr } from "@utils/slugify";
 import DateTime from "@components/search/Datetime.tsx";
 import type { CollectionEntry } from "astro:content";
-import { SITE } from "@config";
 import { Image } from "astro:assets";
 import generateUrlWithSiteBase from "@utils/generateUrlWithSiteBase";
 
@@ -27,6 +26,8 @@ var ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 
 if (ogImageUrl)
 	ogImageUrl = generateUrlWithSiteBase(ogImageUrl, Astro.url);
+else 
+	ogImageUrl = ""
 ---
 
 <div class="card">
