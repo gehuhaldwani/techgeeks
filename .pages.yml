@@ -17,8 +17,21 @@ content:
           required: true,
           default: "TechGeeks",
         }
-      - { name: pubDatetime, label: Published Date, type: date, required: true }
-      - { name: modDatetime, label: Modified Date, type: date, required: false }
+      - {
+          name: pubDatetime,
+          label: Published Date,
+          type: date,
+          required: true,
+          options: { time: true },
+        }
+
+      - {
+          name: modDatetime,
+          label: Modified Date,
+          type: date,
+          required: false,
+          options: { time: true },
+        }
       - {
           name: featured,
           label: Featured,
