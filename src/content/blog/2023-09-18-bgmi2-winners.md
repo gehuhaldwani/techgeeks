@@ -3,10 +3,12 @@ title: "BGMI 2.0 Winners: MPG Esports"
 description: MPG Esports, the triumphant victors of BGMI 2.0, emerged as the
   indomitable champions of the intercampus esports spectacle.
 author: Tech Geeks
-pubDatetime: 2024-08-24T05:00:00.000Z
+pubDatetime: 2024-08-23T23:30:00.000Z
 featured: false
 draft: false
-tags: BGMI,eSports
+tags:
+  - bgmi
+  - esports
 ogImage: /techgeeks/images/bgmi2.0/6073507266545432883_121.jpg
 ---
 On the day of September 18, 2023, the Crew Club of Graphic Era Hill University Dehradun orchestrated a grand intercampus esports spectacle: BGMI 2.0, executed in dynamic coordination with the TechGeeks Club of Graphic Era Hill University Haldwani Campus. This electrifying event bore witness to the convergence of more than a staggering 100 teams, each vying for supremacy on the virtual battlegrounds. In an awe-inspiring display of skill and strategic finesse, MPG Esports, hailing from the Haldwani campus, emerged as the indomitable victors, securing the coveted first place.
