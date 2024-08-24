@@ -73,7 +73,6 @@ Team TechGeeks
 
 ### Selected Students for Round 2:
 
-```markdown
 #### BrainQuest
 
 | NAME                        | COURSE | SECTION |
@@ -123,4 +122,3 @@ Team TechGeeks
 | Niraj Chandra       | BCA    | B       |
 | Tarun Pathak        | B.Tech |         |
 | Vanshika            | BCA    | C       |
-```
