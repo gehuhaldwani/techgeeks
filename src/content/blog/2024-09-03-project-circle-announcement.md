@@ -27,7 +27,7 @@ TechGeeks club is excited to launch **Project Circle**, an open platform where s
 
 **Details:**
 
-*   **First Meeting:** Thursday
+*   **First Meeting:** Wednesday
     
 *   **Time:** 2 PM
     
