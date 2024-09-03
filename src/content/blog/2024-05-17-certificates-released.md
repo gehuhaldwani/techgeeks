@@ -4,8 +4,8 @@ description: Certificates for the participants and volunteers of EXTRAVAGANZA
   SUMMER FEST 2024 have been released. You can download your certificates from
   the links below.
 author: Tech Geeks
-pubDatetime: 2024-05-17T06:30:00.000Z
-featured: true
+pubDatetime: 2024-05-17T01:00:00.000Z
+featured: false
 draft: false
 tags:
   - eSports
