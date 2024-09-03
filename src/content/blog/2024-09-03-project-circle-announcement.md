@@ -1,5 +1,5 @@
 ---
-title: Project Circle Accouncement
+title: Project Circle Announcement
 description: TechGeeks club is excited to launch Project Circle, an open
   platform where students can come together to discuss, collaborate, and
   innovate!
