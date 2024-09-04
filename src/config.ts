@@ -53,16 +53,16 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:techgeeksclub@gmail.com",
+    href: "mailto:techgeeks@gehu.ac.in",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
-  // {
-  //   name: "Twitter",
-  //   href: "https://github.com/satnaing/astro-paper",
-  //   linkTitle: `${SITE.title} on Twitter`,
-  //   active: false,
-  // },
+  {
+    name: "Discord",
+    href: "https://discord.gg/n8NnubD9PW",
+    linkTitle: `${SITE.title} on Discord`,
+    active: true,
+  },
   // {
   //   name: "Twitch",
   //   href: "https://github.com/satnaing/astro-paper",
