@@ -9,6 +9,7 @@ draft: false
 tags:
   - project
 ---
+
 ## A New Initiative Takes Flight
 
 The Tech Club’s _Project Circle_ is something students had been eagerly looking forward to, and the first day did not disappoint. This new student-led initiative was set up to be a space for brainstorming, discussing, and developing ideas, all without any teacher involvement. The aim was to give students a chance to use their creativity and technical skills freely. When the first meeting kicked off, it was a big deal for many. The excitement was obvious as students gathered, ready to dive into meaningful discussions and teamwork. It was a fresh start for those looking to explore new ideas and work together.
@@ -38,5 +39,4 @@ The first day of the Project Circle was more than just a meeting; it was a peek 
 
 Overall, the hour in LT-1 was a promising start. The Project Circle has the chance to become a key part of college life, fostering creativity, learning, and collaboration. As it continues to grow, it promises to be a lively centre for student ideas and a valuable resource for making the most of college.
 
-> Written by  
-> **Daksh Nailwal**
+> Daksh Nailwal
