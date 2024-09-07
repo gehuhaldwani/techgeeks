@@ -29,7 +29,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/gehuhaldwani/techgeeks",
+    href: "https://github.com/techgeeksgehu",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -103,12 +103,6 @@ export const SOCIALS: SocialObjects = [
   //   name: "CodePen",
   //   href: "https://github.com/satnaing/astro-paper",
   //   linkTitle: `${SITE.title} on CodePen`,
-  //   active: false,
-  // },
-  // {
-  //   name: "Discord",
-  //   href: "https://github.com/satnaing/astro-paper",
-  //   linkTitle: `${SITE.title} on Discord`,
   //   active: false,
   // },
   // {
