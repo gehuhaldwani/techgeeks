@@ -11,17 +11,27 @@ export async function GET() {
     title: SITE.title,
     description: SITE.desc,
     site: SITE.website,
+    customData: `<logo>${generateUrlWithSiteBase(
+      SITE.ogImage ?? "og.png",
+      new URL(SITE.website + SITE.base)
+    )}</logo>`,
+
     items: sortedPosts.map(({ data, slug }) => ({
       link: `${SITE.base}/posts/${slug}/`,
       title: data.title,
       description: data.description,
       pubDate: new Date(data.modDatetime ?? data.pubDatetime),
-      image: generateUrlWithSiteBase(
-        typeof data.ogImage === "string"
-          ? data.ogImage
-          : (data.ogImage?.src ?? SITE.ogImage ?? "og.png"),
-        new URL(SITE.website + SITE.base)
-      ),
+      author: data.author,
+      enclosure: {
+        length: 1,
+        type: "image/jpeg",
+        url: generateUrlWithSiteBase(
+          typeof data.ogImage === "string"
+            ? data.ogImage
+            : (data.ogImage?.src ?? SITE.ogImage ?? "og.png"),
+          new URL(SITE.website + SITE.base)
+        ),
+      },
     })),
   });
 }
