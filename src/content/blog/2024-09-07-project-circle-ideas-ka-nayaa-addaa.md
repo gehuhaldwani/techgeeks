@@ -3,7 +3,7 @@ title: "Project Circle: Ideas Ka Nayaa Addaa"
 description: A new student-led initiative was set up to be a space for
   brainstorming, discussing, and developing ideas.
 author: Daksh Nailwal
-pubDatetime: 2024-09-04T05:00:00.000Z
+pubDatetime: 2024-09-03T23:30:00.000Z
 featured: false
 draft: false
 tags:
@@ -21,13 +21,14 @@ When students first arrived, there was a mix of excitement and uncertainty. Many
 
 As the meeting went on, the initial nerves gave way to a lively exchange of ideas. Students started sharing their projects and concepts, showcasing their creativity and technical skills.
 
-One standout idea was a **"College-Specific OLX"** **—** a platform tailored specifically for the college community, allowing students to buy, sell, and trade items within the campus. This concept aimed to make transactions easier and more efficient by focusing solely on the needs of students.
-
-Another exciting proposal was a **"Gesture-Controlled PowerPoint Tool".** This innovative tool would enable users to control presentations using hand gestures, making the presentation process more interactive and dynamic. It was clear that this idea could significantly enhance the way presentations are delivered and engaged with.
-
-Additionally, a new idea emerged for a “**Food Court-like app-based Booking System”** designed for the college cafeteria and tuck shops. The proposed system would use QR codes placed on tables. Students could scan these codes to place their orders directly from their phones and then wait for notifications when their food was ready. This approach aimed to streamline the ordering process, reduce wait times, and improve overall convenience for students.
-
-Another proposal introduced was an **“E-Certificate Generation tool for College Clubs”.** This tool would simplify the process of creating and managing certificates for various club activities. By automating certificate generation, the tool was expected to enhance productivity and ensure that students could easily recognize and reward their peers' efforts.
+*   One standout idea was a **"College-Specific OLX"** **—** a platform tailored specifically for the college community, allowing students to buy, sell, and trade items within the campus. This concept aimed to make transactions easier and more efficient by focusing solely on the needs of students.
+    
+*   Another exciting proposal was a **"Gesture-Controlled PowerPoint Tool".** This innovative tool would enable users to control presentations using hand gestures, making the presentation process more interactive and dynamic. It was clear that this idea could significantly enhance the way presentations are delivered and engaged with.
+    
+*   Additionally, a new idea emerged for a “**Food Court-like app-based Booking System”** designed for the college cafeteria and tuck shops. The proposed system would use QR codes placed on tables. Students could scan these codes to place their orders directly from their phones and then wait for notifications when their food was ready. This approach aimed to streamline the ordering process, reduce wait times, and improve overall convenience for students.
+    
+*   Another proposal introduced was an **“E-Certificate Generation tool for College Clubs”.** This tool would simplify the process of creating and managing certificates for various club activities. By automating certificate generation, the tool was expected to enhance productivity and ensure that students could easily recognize and reward their peers' efforts.
+    
 
 These discussions gave students a chance to present their ideas and get feedback. It was also a great opportunity for teamwork and refining concepts. The feedback helped improve ideas and encouraged deeper thinking about projects.
 
