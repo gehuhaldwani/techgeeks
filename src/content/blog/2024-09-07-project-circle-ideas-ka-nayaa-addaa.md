@@ -3,7 +3,7 @@ title: "Project Circle: Ideas Ka Nayaa Addaa"
 description: A new student-led initiative was set up to be a space for
   brainstorming, discussing, and developing ideas.
 author: Daksh Nailwal
-pubDatetime: 2024-09-04T10:30:00.000Z
+pubDatetime: 2024-09-04T05:00:00.000Z
 featured: false
 draft: false
 tags:
@@ -36,3 +36,6 @@ These discussions gave students a chance to present their ideas and get feedback
 The first day of the Project Circle was more than just a meeting; it was a peek into the potential for student innovation and teamwork. The circle showed it could be a great way for students to share ideas, get valuable feedback, and connect with others. Senior students also played a role, offering advice and sharing their experiences.
 
 Overall, the hour in LT-1 was a promising start. The Project Circle has the chance to become a key part of college life, fostering creativity, learning, and collaboration. As it continues to grow, it promises to be a lively centre for student ideas and a valuable resource for making the most of college.
+
+> Written by  
+> **Daksh Nailwal**
