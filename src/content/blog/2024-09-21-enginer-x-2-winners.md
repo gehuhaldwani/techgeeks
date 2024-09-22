@@ -1,6 +1,6 @@
 ---
 title: Winners of Engineer X 2.0
-description: Winners announced for Tech Quiz, Sudoku, BGMI, Free Fire events.
+description: With a total of 450 participants across events, Engineer X 2.0 was a huge success.
 author: TechGeeks
 pubDatetime: 2024-09-21T01:00:00.000Z
 featured: false
@@ -12,7 +12,7 @@ tags:
   - quiz
 ---
 
-With a total of 450 participants, Engineer X 2.0 was a huge success. Here are the winners of the various events.
+With a total of 450 participants across events, Engineer X 2.0 was a huge success. Here are the winners of the various events.
 
 # Sudoku & Crossword
 
@@ -27,7 +27,7 @@ Total Participants: 87
 
 # Tech Quiz
 
-Total Participants: 115
+Total Participants: 111
 
 ## Group 1 (1st year)
 
@@ -41,20 +41,21 @@ Total Participants: 115
 
 ### 2. Team Junior Developer
 
-| Name            | Course        | Year |
-| --------------- | ------------- | ---- |
-| JAY SINGH YADAV | BCA (AI & DS) | 1    |
-| ASHISH MEHRA    | BCA (AI & DS) | 1    |
-| MANISH CHANDOLA | BCA (AI & DS) | 1    |
-
-### 3. Team Spammm
-
 | Name                | Course        | Year | Section |
 | ------------------- | ------------- | ---- | ------- |
 | PRIYANSHU BISHT     | BCA (AI & DS) | 1    |         |
 | SAURAV SINGH MEHTA  | BCA (AI & DS) | 1    |         |
 | YOGESH SINGH TILARA | B TECH        | 1    |         |
 | YOGESH ADHIKARI     | BCA           | 1    | B       |
+
+### 3. Team Spammm
+
+| Name            | Course | Year | Section |
+| --------------- | ------ | ---- | ------- |
+| DIVYANSH MITTAL | BCA    | 1    | A       |
+| SNEHA NEGI      | BCA    | 1    | B       |
+| KARAN BHAKUNI   | BCA    | 1    | A       |
+| SWETA           | BCA    | 1    | B       |
 
 ## Group 2 (2nd & 3rd year)
 
