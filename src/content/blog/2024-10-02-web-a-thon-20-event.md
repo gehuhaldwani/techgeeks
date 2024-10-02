@@ -35,7 +35,7 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 | Saurav Singh Mehta    | 24041282  | BCA (AI & DS) | 1        |         | Haldwani |
 | Sachin Bhauryal       | 240411074 | BCA           | 1        | B       | Haldwani |
 
-## Entires:
+## Notable Entires:
 
 | Team             | link                                                                                                                 | repo                                                                                                                     |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
