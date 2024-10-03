@@ -40,24 +40,6 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 
 ## Notable Entires:
 
-<!-- | Team             | link                                                                                                                 | repo                                                                                                                     |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Best-a-thon      | na                                                                                                                   | [https://github.com/techgeeksgehu/webathon2-bestathon](https://github.com/techgeeksgehu/webathon2-bestathon)             |
-| Brainstormers    | [https://webathon2-brainstormers.vercel.app/](https://webathon2-brainstormers.vercel.app/)                           | [https://github.com/techgeeksgehu/webathon2-brainstormers](https://github.com/techgeeksgehu/webathon2-brainstormers)     |
-| Brawlers         | [https://webathon2-brawlers.vercel.app/](https://webathon2-brawlers.vercel.app/)                                     | [https://github.com/techgeeksgehu/webathon2-brawlers](https://github.com/techgeeksgehu/webathon2-brawlers)               |
-| Code crew        | [https://techgeeksgehu.github.io/webathon2-codecrew/](https://techgeeksgehu.github.io/webathon2-codecrew/)           | [https://github.com/techgeeksgehu/webathon2-codecrew](https://github.com/techgeeksgehu/webathon2-codecrew)               |
-| Code Cruncher    | [https://techgeeksgehu.github.io/webathon2-codecrunchers/](https://techgeeksgehu.github.io/webathon2-codecrunchers/) | [https://github.com/techgeeksgehu/webathon2-codecrunchers](https://github.com/techgeeksgehu/webathon2-codecrunchers)     |
-| Dev Squads       | [https://techgeeksgehu.github.io/webathon2-devsquads/](https://techgeeksgehu.github.io/webathon2-devsquads/)         | [https://github.com/techgeeksgehu/webathon2-devsquads](https://github.com/techgeeksgehu/webathon2-devsquads)             |
-| FamBrah          | [https://techgeeksgehu.github.io/webathon2-fambrah/](https://techgeeksgehu.github.io/webathon2-fambrah/)             | [https://github.com/techgeeksgehu/webathon2-fambrah](https://github.com/techgeeksgehu/webathon2-fambrah)                 |
-| Fierce Matrix    | [https://webathon2-fiercematrix.vercel.app/](https://webathon2-fiercematrix.vercel.app/)                             | [https://github.com/techgeeksgehu/webathon2-fiercematrix](https://github.com/techgeeksgehu/webathon2-fiercematrix)       |
-| Html Hustlers    | [https://king-carter.github.io/sic/](https://king-carter.github.io/sic/)                                             | [https://github.com/techgeeksgehu/webathon2-htmlhustlers](https://github.com/techgeeksgehu/webathon2-htmlhustlers)       |
-| Nokia 3310       | [https://webathon2-nokia3310.vercel.app/](https://webathon2-nokia3310.vercel.app/)                                   | [https://github.com/techgeeksgehu/webathon2-nokia3310](https://github.com/techgeeksgehu/webathon2-nokia3310)             |
-| Team ALPHA       | [https://techgeeksgehu.github.io/webathon2-teamalpha/](https://techgeeksgehu.github.io/webathon2-teamalpha/)         | [https://github.com/techgeeksgehu/webathon2-teamalpha](https://github.com/techgeeksgehu/webathon2-teamalpha)             |
-| Tech MASTERMINDs | [https://sic-hld-webathon.vercel.app/](https://sic-hld-webathon.vercel.app/)                                         | [https://github.com/techgeeksgehu/webathon2-techmasterminds](https://github.com/techgeeksgehu/webathon2-techmasterminds) |
-| Techbridplus     | [https://webethon2-techbridplus.vercel.app/](https://webethon2-techbridplus.vercel.app/)                             | [https://github.com/techgeeksgehu/webethon2-techbridplus](https://github.com/techgeeksgehu/webethon2-techbridplus)       |
-| The Devils       | [https://techgeeksgehu.github.io/webathon2-thedevils/](https://techgeeksgehu.github.io/webathon2-thedevils/)         | [https://github.com/techgeeksgehu/webathon2-thedevils](https://github.com/techgeeksgehu/webathon2-thedevils)             |
-| The Maverick     | [https://webathon2-maverick.vercel.app/](https://webathon2-maverick.vercel.app/)                                     | [https://github.com/techgeeksgehu/webathon2-maverick](https://github.com/techgeeksgehu/webathon2-maverick)               | -->
-
 | Team             | Live Demo                                                                | Source Code                                                               |
 | ---------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Best-a-thon      | na                                                                       | [github repo](https://github.com/techgeeksgehu/webathon2-bestathon)       |
@@ -75,6 +57,9 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 | Techbridplus     | [vercel](https://webethon2-techbridplus.vercel.app/)                     | [github repo](https://github.com/techgeeksgehu/webethon2-techbridplus)    |
 | The Devils       | [github pages](https://techgeeksgehu.github.io/webathon2-thedevils/)     | [github repo](https://github.com/techgeeksgehu/webathon2-thedevils)       |
 | The Maverick     | [vercel](https://webathon2-maverick.vercel.app/)                         | [github repo](https://github.com/techgeeksgehu/webathon2-maverick)        |
+| Web Wizards      | [vercel](https://webathon2-webwizards.vercel.app/)                       | [github repo](https://github.com/techgeeksgehu/webathon2-webwizards)      |
+
+- In alphabetical order
 
 ![](/techgeeks/images/webathon2/IMG_5255.PNG)
 
