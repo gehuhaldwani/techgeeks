@@ -18,25 +18,25 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 
 ### 1\. Brawlers
 
-| Name           | ID        | Course | Sem | Sec | Campus  |
-| -------------- | --------- | ------ | --- | --- | ------- |
-| Varun Kharkwal | 220112441 | B TECH | 5   | D   | Bhimtal |
-| Manoj Singh    | 220411799 | B TECH | 5   | C   | Bhimtal |
+| Name           | Course | Sem | Sec | Campus  |
+| -------------- | ------ | --- | --- | ------- |
+| Varun Kharkwal | B TECH | 5   | D   | Bhimtal |
+| Manoj Joshi    | B TECH | 5   | C   | Bhimtal |
 
 ### 2\. ⁠Maverick
 
-| Name      | ID       | Course | Sem | Sec | Campus  |
-| --------- | -------- | ------ | --- | --- | ------- |
-| Aman Bani | 22011134 | B TECH | 5   | A   | Bhimtal |
+| Name      | Course | Sem | Sec | Campus  |
+| --------- | ------ | --- | --- | ------- |
+| Aman Bani | B TECH | 5   | A   | Bhimtal |
 
 ### 3\. ⁠Tech Masterminds
 
-| Name                  | ID        | Course        | Sem | Sec | Campus   |
-| --------------------- | --------- | ------------- | --- | --- | -------- |
-| Priyanshu Bisht       | 24041746  | BCA (AI & DS) | 1   |     | Haldwani |
-| Dinesh Chandra Pandey | 24041544  | BCA           | 1   | A   | Haldwani |
-| Saurav Singh Mehta    | 24041282  | BCA (AI & DS) | 1   |     | Haldwani |
-| Sachin Bhauryal       | 240411074 | BCA           | 1   | B   | Haldwani |
+| Name                  | Course        | Sem | Sec | Campus   |
+| --------------------- | ------------- | --- | --- | -------- |
+| Priyanshu Bisht       | BCA (AI & DS) | 1   |     | Haldwani |
+| Dinesh Chandra Pandey | BCA           | 1   | A   | Haldwani |
+| Saurav Singh Mehta    | BCA (AI & DS) | 1   |     | Haldwani |
+| Sachin Bhauryal       | BCA           | 1   | B   | Haldwani |
 
 ## Notable Entires:
 

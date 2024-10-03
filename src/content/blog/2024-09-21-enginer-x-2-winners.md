@@ -61,30 +61,30 @@ Total Participants: 111
 
 ### 1. Team One
 
-| Name            | Course | Year |
-| --------------- | ------ | ---- |
-| NIRMAL SINGH    | B TECH | 5    |
-| TANUJ NAYAL     | B TECH | 5    |
-| PANKAJ SHARMA   | B TECH | 5    |
-| MANGEETA SAMMAL | B TECH | 5    |
+| Name            | Course | Sem |
+| --------------- | ------ | --- |
+| NIRMAL SINGH    | B TECH | 5   |
+| TANUJ NAYAL     | B TECH | 5   |
+| PANKAJ SHARMA   | B TECH | 5   |
+| MANGEETA SAMMAL | B TECH | 5   |
 
 ### 2. Team Raman
 
-| Name             | Course | Year |
-| ---------------- | ------ | ---- |
-| SUMIT PALARIYA   | B TECH | 5    |
-| RAHUL SINGH      | B TECH | 5    |
-| HIMANSHU KORANGA | B TECH | 5    |
-| RAHUL SHARMA     | B TECH | 5    |
+| Name             | Course | Sem |
+| ---------------- | ------ | --- |
+| SUMIT PALARIYA   | B TECH | 5   |
+| RAHUL SINGH      | B TECH | 5   |
+| HIMANSHU KORANGA | B TECH | 5   |
+| RAHUL SHARMA     | B TECH | 5   |
 
 ### 3. Tech Ninjas
 
-| Name           | Course | Year |
-| -------------- | ------ | ---- |
-| MAYANK JOSHI   | B TECH | 5    |
-| MOHIT JOSHI    | B TECH | 5    |
-| ABHISHEK SINGH | B TECH | 5    |
-| SANJAY KUMAR   | B TECH | 5    |
+| Name           | Course | Sem |
+| -------------- | ------ | --- |
+| MAYANK JOSHI   | B TECH | 5   |
+| MOHIT JOSHI    | B TECH | 5   |
+| ABHISHEK SINGH | B TECH | 5   |
+| SANJAY KUMAR   | B TECH | 5   |
 
 # BGMI
 
