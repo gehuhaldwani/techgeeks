@@ -18,29 +18,29 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 
 ### 1\. Brawlers
 
-| Name           | ID        | Course | Semester | Section | Campus  |
-| -------------- | --------- | ------ | -------- | ------- | ------- |
-| Varun Kharkwal | 220112441 | B TECH | 5        | D       | Bhimtal |
-| Manoj Singh    | 220411799 | B TECH | 5        | C       | Bhimtal |
+| Name           | ID        | Course | Sem | Sec | Campus  |
+| -------------- | --------- | ------ | --- | --- | ------- |
+| Varun Kharkwal | 220112441 | B TECH | 5   | D   | Bhimtal |
+| Manoj Singh    | 220411799 | B TECH | 5   | C   | Bhimtal |
 
 ### 2\. ⁠Maverick
 
-| Name      | ID       | Course | Semester | Section | Campus  |
-| --------- | -------- | ------ | -------- | ------- | ------- |
-| Aman Bani | 22011134 | B TECH | 5        | A       | Bhimtal |
+| Name      | ID       | Course | Sem | Sec | Campus  |
+| --------- | -------- | ------ | --- | --- | ------- |
+| Aman Bani | 22011134 | B TECH | 5   | A   | Bhimtal |
 
 ### 3\. ⁠Tech Masterminds
 
-| Name                  | ID        | Course        | Semester | Section | Campus   |
-| --------------------- | --------- | ------------- | -------- | ------- | -------- |
-| Priyanshu Bisht       | 24041746  | BCA (AI & DS) | 1        |         | Haldwani |
-| Dinesh Chandra Pandey | 24041544  | BCA           | 1        | A       | Haldwani |
-| Saurav Singh Mehta    | 24041282  | BCA (AI & DS) | 1        |         | Haldwani |
-| Sachin Bhauryal       | 240411074 | BCA           | 1        | B       | Haldwani |
+| Name                  | ID        | Course        | Sem | Sec | Campus   |
+| --------------------- | --------- | ------------- | --- | --- | -------- |
+| Priyanshu Bisht       | 24041746  | BCA (AI & DS) | 1   |     | Haldwani |
+| Dinesh Chandra Pandey | 24041544  | BCA           | 1   | A   | Haldwani |
+| Saurav Singh Mehta    | 24041282  | BCA (AI & DS) | 1   |     | Haldwani |
+| Sachin Bhauryal       | 240411074 | BCA           | 1   | B   | Haldwani |
 
 ## Notable Entires:
 
-| Team             | link                                                                                                                 | repo                                                                                                                     |
+<!-- | Team             | link                                                                                                                 | repo                                                                                                                     |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Best-a-thon      | na                                                                                                                   | [https://github.com/techgeeksgehu/webathon2-bestathon](https://github.com/techgeeksgehu/webathon2-bestathon)             |
 | Brainstormers    | [https://webathon2-brainstormers.vercel.app/](https://webathon2-brainstormers.vercel.app/)                           | [https://github.com/techgeeksgehu/webathon2-brainstormers](https://github.com/techgeeksgehu/webathon2-brainstormers)     |
@@ -56,7 +56,25 @@ Tech Geeks Club in collaboration with the Start-up Incubation Centre (SIC) of Gr
 | Tech MASTERMINDs | [https://sic-hld-webathon.vercel.app/](https://sic-hld-webathon.vercel.app/)                                         | [https://github.com/techgeeksgehu/webathon2-techmasterminds](https://github.com/techgeeksgehu/webathon2-techmasterminds) |
 | Techbridplus     | [https://webethon2-techbridplus.vercel.app/](https://webethon2-techbridplus.vercel.app/)                             | [https://github.com/techgeeksgehu/webethon2-techbridplus](https://github.com/techgeeksgehu/webethon2-techbridplus)       |
 | The Devils       | [https://techgeeksgehu.github.io/webathon2-thedevils/](https://techgeeksgehu.github.io/webathon2-thedevils/)         | [https://github.com/techgeeksgehu/webathon2-thedevils](https://github.com/techgeeksgehu/webathon2-thedevils)             |
-| The Maverick     | [https://webathon2-maverick.vercel.app/](https://webathon2-maverick.vercel.app/)                                     | [https://github.com/techgeeksgehu/webathon2-maverick](https://github.com/techgeeksgehu/webathon2-maverick)               |
+| The Maverick     | [https://webathon2-maverick.vercel.app/](https://webathon2-maverick.vercel.app/)                                     | [https://github.com/techgeeksgehu/webathon2-maverick](https://github.com/techgeeksgehu/webathon2-maverick)               | -->
+
+| Team             | Live Demo                                                                | Source Code                                                               |
+| ---------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Best-a-thon      | na                                                                       | [github repo](https://github.com/techgeeksgehu/webathon2-bestathon)       |
+| Brainstormers    | [vercel](https://webathon2-brainstormers.vercel.app/)                    | [github repo](https://github.com/techgeeksgehu/webathon2-brainstormers)   |
+| Brawlers         | [vercel](https://webathon2-brawlers.vercel.app/)                         | [github repo](https://github.com/techgeeksgehu/webathon2-brawlers)        |
+| Code crew        | [github pages](https://techgeeksgehu.github.io/webathon2-codecrew/)      | [github repo](https://github.com/techgeeksgehu/webathon2-codecrew)        |
+| Code Cruncher    | [github pages](https://techgeeksgehu.github.io/webathon2-codecrunchers/) | [github repo](https://github.com/techgeeksgehu/webathon2-codecrunchers)   |
+| Dev Squads       | [github pages](https://techgeeksgehu.github.io/webathon2-devsquads/)     | [github repo](https://github.com/techgeeksgehu/webathon2-devsquads)       |
+| FamBrah          | [github pages](https://techgeeksgehu.github.io/webathon2-fambrah/)       | [github repo](https://github.com/techgeeksgehu/webathon2-fambrah)         |
+| Fierce Matrix    | [vercel](https://webathon2-fiercematrix.vercel.app/)                     | [github repo](https://github.com/techgeeksgehu/webathon2-fiercematrix)    |
+| Html Hustlers    | [github pages](https://king-carter.github.io/sic/)                       | [github repo](https://github.com/techgeeksgehu/webathon2-htmlhustlers)    |
+| Nokia 3310       | [vercel](https://webathon2-nokia3310.vercel.app/)                        | [github repo](https://github.com/techgeeksgehu/webathon2-nokia3310)       |
+| Team ALPHA       | [github pages](https://techgeeksgehu.github.io/webathon2-teamalpha/)     | [github repo](https://github.com/techgeeksgehu/webathon2-teamalpha)       |
+| Tech MASTERMINDs | [vercel](https://sic-hld-webathon.vercel.app/)                           | [github repo](https://github.com/techgeeksgehu/webathon2-techmasterminds) |
+| Techbridplus     | [vercel](https://webethon2-techbridplus.vercel.app/)                     | [github repo](https://github.com/techgeeksgehu/webethon2-techbridplus)    |
+| The Devils       | [github pages](https://techgeeksgehu.github.io/webathon2-thedevils/)     | [github repo](https://github.com/techgeeksgehu/webathon2-thedevils)       |
+| The Maverick     | [vercel](https://webathon2-maverick.vercel.app/)                         | [github repo](https://github.com/techgeeksgehu/webathon2-maverick)        |
 
 ![](/techgeeks/images/webathon2/IMG_5255.PNG)
 
