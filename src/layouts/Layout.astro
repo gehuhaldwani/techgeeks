@@ -55,7 +55,7 @@ let pageTitle: string;
 if (title) {
 	pageTitle = `${title} - ${siteConfig.title}`;
 } else {
-	pageTitle = `${siteConfig.title} - ${siteConfig.subtitle}`;
+	pageTitle = `${siteConfig.title}`;
 }
 
 const favicons: Favicon[] =
@@ -106,6 +106,7 @@ const bannerOffset =
 		<meta property="twitter:url" content={Astro.url} />
 		<meta name="twitter:title" content={pageTitle} />
 		<meta name="twitter:description" content={description || pageTitle} />
+		<meta property="og:image" content={openGraphImageUrl} />
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
