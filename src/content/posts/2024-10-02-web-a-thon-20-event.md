@@ -25,6 +25,7 @@ The event was held over three hours and evaluated on parameters such as original
 | Varun Kharkwal | B TECH | 5   | D   | Bhimtal |
 | Manoj Joshi    | B TECH | 5   | C   | Bhimtal |
 
+[Live Demo](https://webathon2-brawlers.vercel.app/)  
 ::github{repo="techgeeksgehu/webathon2-brawlers"}
 
 ### 2\. ⁠Maverick
@@ -33,6 +34,7 @@ The event was held over three hours and evaluated on parameters such as original
 | --------- | ------ | --- | --- | ------- |
 | Aman Bani | B TECH | 5   | A   | Bhimtal |
 
+[Live Demo](https://webathon2-maverick.vercel.app/) 
 ::github{repo="techgeeksgehu/webathon2-maverick"}
 
 ### 3\. ⁠Tech Masterminds
@@ -44,11 +46,14 @@ The event was held over three hours and evaluated on parameters such as original
 | Saurav Singh Mehta    | BCA (AI & DS) | 1   |     | Haldwani |
 | Sachin Bhauryal       | BCA           | 1   | B   | Haldwani |
 
+[Live Demo](https://webathon2-techmasterminds.vercel.app/)
 ::github{repo="techgeeksgehu/webathon2-techmasterminds"}
 ---
 
 ## Notable Entires:
-
+:::note
+In alphabetical order
+:::
 | Team             | Live Demo                                                                | Source Code                                                               |
 | ---------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Best-a-thon      | na                                                                       | [github repo](https://github.com/techgeeksgehu/webathon2-bestathon)       |
@@ -67,9 +72,6 @@ The event was held over three hours and evaluated on parameters such as original
 | The Devils       | [github pages](https://techgeeksgehu.github.io/webathon2-thedevils/)     | [github repo](https://github.com/techgeeksgehu/webathon2-thedevils)       |
 | The Maverick     | [vercel](https://webathon2-maverick.vercel.app/)                         | [github repo](https://github.com/techgeeksgehu/webathon2-maverick)        |
 | Web Wizards      | [vercel](https://webathon2-webwizards.vercel.app/)                       | [github repo](https://github.com/techgeeksgehu/webathon2-webwizards)      |
-
->[!NOTE]
->In alphabetical order
 
 ![](/techgeeks/images/webathon2/IMG_5255.PNG)
 
