@@ -5,68 +5,60 @@
   "frontMatter.content.publicFolder": "public",
   "frontMatter.content.pageFolders": [
     {
-      "title": "blog",
-      "path": "[[workspace]]/src/content/blog"
+      "title": "posts",
+      "path": "[[workspace]]/src/content/posts"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
-      "pageBundle": false,
+      "pageBundle": true,
       "previewPath": "'blog'",
-      "filePrefix": "yyyy-MM-dd",
+      "filePrefix": null,
       "clearEmpty": true,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
           "type": "string",
           "single": true
         },
         {
-          "title": "Description",
+          "title": "description",
           "name": "description",
           "type": "string"
         },
         {
-          "title": "Publishing date",
-          "name": "pubDatetime",
+          "title": "published",
+          "name": "published",
           "type": "datetime",
           "default": "{{now}}",
           "isPublishDate": true
         },
         {
-          "title": "Modified date",
-          "name": "modDatetime",
-          "type": "datetime",
-          "isModifiedDate": true
-        },
-        {
-          "title": "Content preview",
-          "name": "ogImage",
+          "title": "preview",
+          "name": "image",
           "type": "image",
           "isPreviewImage": true
         },
         {
-          "title": "Draft",
-          "name": "draft",
-          "type": "boolean",
-          "default": false
-        },
-        {
-          "title": "Featured",
-          "name": "featured",
-          "type": "boolean",
-          "default": false
-        },
-        {
-          "title": "Tags",
+          "title": "tags",
           "name": "tags",
-          "type": "tags"
+          "type": "list"
         },
         {
-          "title": "Author",
-          "name": "author",
+          "title": "category",
+          "name": "category",
+          "type": "string"
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "language",
+          "name": "language",
           "type": "string"
         }
       ]

@@ -5,39 +5,26 @@ media:
 content:
   - name: posts
     label: Posts
-    path: src/content/blog
+    path: src/content/posts
     type: collection
+    format: yaml-frontmatter
+    view:
+      fields: [title, published, image]
+      primary: title
+      sort: [published, title]
+      default:
+        search: ""
+        sort: title
+        order: desc
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string, required: true }
       - {
-          name: author,
-          label: Author,
-          type: string,
-          required: true,
-          default: "TechGeeks",
-        }
-      - {
-          name: pubDatetime,
+          name: published,
           label: Published Date,
           type: date,
           required: true,
           options: { time: true, format: yyyy-MM-dd'T'HH:mm:ss.SSSX },
-        }
-
-      - {
-          name: modDatetime,
-          label: Modified Date,
-          type: date,
-          required: false,
-          options: { time: true, format: yyyy-MM-dd'T'HH:mm:ss.SSSX },
-        }
-      - {
-          name: featured,
-          label: Featured,
-          type: boolean,
-          required: false,
-          default: false,
         }
       - {
           name: draft,
@@ -46,6 +33,13 @@ content:
           required: false,
           default: false,
         }
+      - { name: category, label: Category, type: string, required: false }
       - { name: tags, label: Tags, type: string, list: true, required: false }
-      - { name: ogImage, label: Open Graph Image, type: image, required: false }
+      - {
+          name: image,
+          label: Cover Image,
+          type: image,
+          required: false,
+          options: { input: public/images, output: /images },
+        }
       - { name: body, label: Body, type: rich-text, required: true }

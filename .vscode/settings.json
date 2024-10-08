@@ -1,9 +1,25 @@
 {
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": [
-            "file:///c%3A/Users/laksh/Documents/programming/web/techgeeks/.gtihub/workflows/depoy.yaml",
-            "file:///c%3A/Users/laksh/Documents/programming/astro/techgeeks/.gtihub/workflows/deploy.yml"
-        ]
-    },
-    "[markdown]": {}
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "quickfix.biome": "always",
+    "source.organizeImports.biome": "always"
+  },
+  "frontMatter.dashboard.openOnStart": false,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/laksh/Documents/programming/web/techgeeks/.github/workflows/deploy.yml"
+  }
 }
