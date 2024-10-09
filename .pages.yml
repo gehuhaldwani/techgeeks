@@ -11,7 +11,7 @@ content:
     view:
       fields: [title, published, image]
       primary: title
-      sort: [published, title]
+      sort: [published]
       default:
         search: ""
         sort: title
