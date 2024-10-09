@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
       url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
-  ogImage: '/images/logo/color.png',    // Default Open Graph image, relative to the /public directory
+  ogImage: '/og.webp',    // Default Open Graph image, relative to the /public directory
   favicon: [    // Leave this array empty to use the default favicon
     {
       src: '/favicon/favicon-color-32.png',    // Path of the favicon, relative to the /public directory
@@ -44,11 +44,11 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    // {
-    //   name: 'GitHub',
-    //   url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
-    //   external: true,                               // Show an external link icon and will open in a new tab
-    // },
+    {
+      name: 'e Certificates',
+      url: 'https://geuac-my.sharepoint.com/:f:/g/personal/techgeeks_gehu_ac_in/ErYk1XGXJFlDgGn91o5Y2JUBLBHR6rvHTCJDYaqf_3sdYg?e=Ll5Lxe',
+      external: true,                             
+    },
   ],
 }
 
@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'WhatsApp',
       icon: 'fa6-brands:whatsapp',
-      url: '#',
+      url: 'https://chat.whatsapp.com/Fsm0PbfvXzmGXosK26oOFo',
     },
     {
       name: 'GitHub',
