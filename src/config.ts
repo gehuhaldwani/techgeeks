@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'WhatsApp',
       icon: 'fa6-brands:whatsapp',
-      url: 'https://chat.whatsapp.com/Fsm0PbfvXzmGXosK26oOFo',
+      url: 'https://chat.whatsapp.com/DG8kunUqzrB6M08ucQgFRc',
     },
     {
       name: 'GitHub',

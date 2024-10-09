@@ -1,4 +1,3 @@
-// biome-ignore lint/suspicious/noShadowRestrictedNames: <explanation>
 import { toString } from 'mdast-util-to-string'
 import getReadingTime from 'reading-time'
 
