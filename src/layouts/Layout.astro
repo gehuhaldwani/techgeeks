@@ -92,7 +92,10 @@ const bannerOffset =
 		<meta property="og:site_name" content={siteConfig.title} />
 		<meta property="og:url" content={Astro.url} />
 		<meta property="og:title" content={pageTitle} />
-		<meta property="og:description" content={description || pageTitle} />
+		<meta
+			property="og:description"
+			content={description || siteConfig.subtitle || pageTitle}
+		/>
 		<meta property="og:image" content={openGraphImageUrl} />
 		{
 			setOGTypeArticle ? (
@@ -105,8 +108,11 @@ const bannerOffset =
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content={Astro.url} />
 		<meta name="twitter:title" content={pageTitle} />
-		<meta name="twitter:description" content={description || pageTitle} />
-		<meta property="og:image" content={openGraphImageUrl} />
+		<meta
+			name="twitter:description"
+			content={description || siteConfig.subtitle || pageTitle}
+		/>
+		<meta property="twitter:image" content={openGraphImageUrl} />
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
