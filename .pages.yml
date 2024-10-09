@@ -11,10 +11,10 @@ content:
     view:
       fields: [title, published, image]
       primary: title
-      sort: [published, title]
+      sort: [published]
       default:
         search: ""
-        sort: title
+        sort: published
         order: desc
     fields:
       - { name: title, label: Title, type: string, required: true }
