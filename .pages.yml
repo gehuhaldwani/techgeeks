@@ -42,4 +42,4 @@ content:
           required: false,
           options: { input: public/images, output: /images },
         }
-      - { name: body, label: Body, type: code, required: true }
+      - { name: body, label: Body, type: rich-text, required: true }
