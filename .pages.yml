@@ -24,7 +24,7 @@ content:
           label: Published Date,
           type: date,
           required: true,
-          options: { time: true, format: yyyy-MM-dd'T'HH:mm },
+          options: { time: true, format: yyyy-MM-ddTHH:mm:ss.SSSX },
         }
       - {
           name: draft,
