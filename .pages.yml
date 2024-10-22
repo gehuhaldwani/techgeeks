@@ -1,6 +1,6 @@
 media:
   input: public/images
-  output: /techgeeks/images
+  output: /images
 
 content:
   - name: posts

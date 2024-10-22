@@ -36,4 +36,4 @@ The success of the event reflects the vibrant gaming culture at Graphic Era Hill
 *   2nd: **Tanmay Manral**
 *   3rd: **Sandeep Singh Mehta**
 
-![](/techgeeks/images/summer_fest/tekken/IMG-20240510-WA0015%5B1%5D.jpg) ![](/techgeeks/images/summer_fest/tekken/IMG-20240510-WA0016%5B1%5D.jpg) ![](/techgeeks/images/summer_fest/tekken/IMG-20240510-WA0018%5B1%5D.jpg) ![](/techgeeks/images/summer_fest/tekken/IMG-20240510-WA0020%5B1%5D.jpg)
+![](/images/summer_fest/tekken/IMG-20240510-WA0015%5B1%5D.jpg) ![](/images/summer_fest/tekken/IMG-20240510-WA0016%5B1%5D.jpg) ![](/images/summer_fest/tekken/IMG-20240510-WA0018%5B1%5D.jpg) ![](/images/summer_fest/tekken/IMG-20240510-WA0020%5B1%5D.jpg)

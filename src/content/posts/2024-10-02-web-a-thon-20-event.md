@@ -73,6 +73,6 @@ In alphabetical order
 | The Maverick     | [vercel](https://webathon2-maverick.vercel.app/)                         | [github repo](https://github.com/techgeeksgehu/webathon2-maverick)        |
 | Web Wizards      | [vercel](https://webathon2-webwizards.vercel.app/)                       | [github repo](https://github.com/techgeeksgehu/webathon2-webwizards)      |
 
-![](/techgeeks/images/webathon2/IMG_5255.PNG)
+![](/images/webathon2/IMG_5255.PNG)
 
-![](/techgeeks/images/webathon2/IMG_5258.PNG)
+![](/images/webathon2/IMG_5258.PNG)

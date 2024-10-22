@@ -21,4 +21,4 @@ The triumphant players of MPG Esports, representing the BBA 3rd semester, stand 
 
 Their extraordinary performance in BGMI 2.0 serves as a testament to the dedication, talent, and competitive spirit that thrives within the hallowed halls of Graphic Era Hill University.
 
-![](/techgeeks/images/bgmi2.0/6073507266545432884_121.jpg) ![](/techgeeks/images/bgmi2.0/6073507266545432885_121.jpg) ![](/techgeeks/images/bgmi2.0/6073507266545432886_121.jpg) ![](/techgeeks/images/bgmi2.0/6073507266545432887_121.jpg) ![](/techgeeks/images/bgmi2.0/6073507266545432888_121.jpg)
+![](/images/bgmi2.0/6073507266545432884_121.jpg) ![](/images/bgmi2.0/6073507266545432885_121.jpg) ![](/images/bgmi2.0/6073507266545432886_121.jpg) ![](/images/bgmi2.0/6073507266545432887_121.jpg) ![](/images/bgmi2.0/6073507266545432888_121.jpg)

@@ -29,7 +29,7 @@ Giant virtual snake and ladder game. Registration to be on the spot.
 
 Battlegrounds Mobile India e-gaming tournament organized in collaboration with Dehradun Crew Club and Tech Geek Club.
 
-![](/techgeeks/images/bgmi_2_poster.jpg)
+![](/images/bgmi_2_poster.jpg)
 
 And much more! activities.
 

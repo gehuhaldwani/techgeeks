@@ -14,7 +14,7 @@ tags:
   - free fire
   - summer fest
 ---
-![](/techgeeks/images/summer_fest/mobile_warefare_poster.jpg)
+![](/images/summer_fest/mobile_warefare_poster.jpg)
 
 ## 📱💥 Mobile Warfare: GEHU BGMI Tournament - Register Now! 💥📱
 
@@ -30,7 +30,7 @@ Get your phones ready for the ultimate battleground showdown! Graphic Era Hill U
 
 * * *
 
-![](/techgeeks/images/summer_fest/inferno_clash_poster.jpg)
+![](/images/summer_fest/inferno_clash_poster.jpg)
 
 ## 🔥Inferno Clash: GEHU Free Fire Tournament-Registration Now Open!🔥
 
@@ -46,7 +46,7 @@ Prepare to ignite the battlegrounds with blazing intensity! Graphic Era Hill Uni
 
 * * *
 
-![](/techgeeks/images/summer_fest/king_of_iron_fist_poster.jpg)
+![](/images/summer_fest/king_of_iron_fist_poster.jpg)
 
 ## 🥊👑 King of Iron Fist: GEHU Tekken 7 Tournament - Register Now! 👑🥊
 
