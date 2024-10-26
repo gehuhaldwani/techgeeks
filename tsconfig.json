@@ -1,39 +1,40 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "baseUrl": "src",
-    "jsx": "react-jsx",
-    "allowImportingTsExtensions": true,
+    "baseUrl": ".",
+    "strictNullChecks": true,
+    "allowJs": false,
+    "declaration": true,
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      }
+    ],
     "paths": {
-      "@assets/*": [
-        "assets/*"
-      ],
-      "@config": [
-        "config.ts"
-      ],
       "@components/*": [
-        "components/*"
+        "src/components/*"
       ],
-      "@content/*": [
-        "content/*"
+      "@assets/*": [
+        "src/assets/*"
       ],
-      "@layouts/*": [
-        "layouts/*"
-      ],
-      "@pages/*": [
-        "pages/*"
-      ],
-      "@styles/*": [
-        "styles/*"
+      "@constants/*": [
+        "src/constants/*"
       ],
       "@utils/*": [
-        "utils/*"
+        "src/utils/*"
+      ],
+      "@i18n/*": [
+        "src/i18n/*"
+      ],
+      "@layouts/*": [
+        "src/layouts/*"
+      ],
+      "@/*": [
+        "src/*"
       ]
     }
   },
-  "exclude": [
-    "node_modules",
-    "public",
-    "dist",
+  "include": [
+    "src/**/*"
   ]
 }
