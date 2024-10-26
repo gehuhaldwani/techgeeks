@@ -3,6 +3,11 @@ media:
   output: /images
 
 content:
+  - name: about
+    label: About
+    path: src/content/spec/about.md
+    type: file
+    
   - name: posts
     label: Posts
     path: src/content/posts
