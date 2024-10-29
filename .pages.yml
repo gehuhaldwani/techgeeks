@@ -44,6 +44,6 @@ content:
         }
       - { name: body, label: Body, type: rich-text, required: true }
   - name: about
-    label: About
+    label: About Page
     path: src/content/spec/about.md
     type: file
