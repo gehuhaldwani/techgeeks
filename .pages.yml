@@ -47,3 +47,7 @@ content:
     label: About Page
     path: src/content/spec/about.md
     type: file
+  - name: config
+    label: Site Config
+    path: src/config.ts
+    type: file
