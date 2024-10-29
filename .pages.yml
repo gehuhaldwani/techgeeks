@@ -2,12 +2,7 @@ media:
   input: public/images
   output: /images
 
-content:
-  - name: about
-    label: About
-    path: src/content/spec/about.md
-    type: file
-    
+content:    
   - name: posts
     label: Posts
     path: src/content/posts
@@ -48,3 +43,7 @@ content:
           options: { input: public/images, output: /images },
         }
       - { name: body, label: Body, type: rich-text, required: true }
+  - name: about
+    label: About
+    path: src/content/spec/about.md
+    type: file
