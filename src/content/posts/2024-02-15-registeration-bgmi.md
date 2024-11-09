@@ -10,20 +10,24 @@ tags:
   - bgmi
   - esports
 ---
+
 ## 🎮 Calling all gamers! Brace yourself for the BGMI Virtual Warzone at GEHU HALDWANI from 16 February
 
 Contact:
 
-*   Pranjal shah 7818033846
-*   Mayank Bisht 6397590254
+- Pranjal shah 7818033846
+- Mayank Bisht 6397590254
 
-Group link [https://chat.whatsapp.com/EcBuBr79yEk4qTo2CmjOLM](https://chat.whatsapp.com/EcBuBr79yEk4qTo2CmjOLM)
+Group link
+[https://chat.whatsapp.com/EcBuBr79yEk4qTo2CmjOLM](https://chat.whatsapp.com/EcBuBr79yEk4qTo2CmjOLM)
 
-Engage in intense battles, showcase your skills, and compete for glory in this exhilarating inter-university esports tournament. ⚔
+Engage in intense battles, showcase your skills, and compete for glory in this
+exhilarating inter-university esports tournament. ⚔
 
 With a Cash prize of 30k 💰, trophies 🏆 and 3 lucky draw winners🥇
 
-With participants from diverse universities, the stage is set for epic showdowns and unforgettable moments.
+With participants from diverse universities, the stage is set for epic showdowns
+and unforgettable moments.
 
 Don't miss your chance to be part of the action-packed excitement!
 

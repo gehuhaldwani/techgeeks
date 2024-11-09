@@ -11,19 +11,27 @@ category: Events
 tags:
   - codenova
 ---
-Greetings!!! Tech Geeks (Technical Club) are thrilled to present "CodeNova" designed just for the freshers of 2023 – a chance to show off your skills and have a blast:
+
+Greetings!!! Tech Geeks (Technical Club) are thrilled to present "CodeNova"
+designed just for the freshers of 2023 – a chance to show off your skills and
+have a blast:
 
 ### Round 1 (Online):
 
-Participants will need to answer given multiple-choice questions within a limited time frame. Students who perform well in this round will qualify for the next stage.
+Participants will need to answer given multiple-choice questions within a
+limited time frame. Students who perform well in this round will qualify for the
+next stage.
 
 ### Round 2 (Offline):
 
-The selected students from the online round will be eligible to compete in this final round. Here, participants can choose one of two categories that align with their interests:
+The selected students from the online round will be eligible to compete in this
+final round. Here, participants can choose one of two categories that align with
+their interests:
 
 #### A. BrainQuest:
 
-Here, you'll answer questions that cover aptitude, tech stuff, and reasoning skills.
+Here, you'll answer questions that cover aptitude, tech stuff, and reasoning
+skills.
 
 #### B. CodeCraft:
 
@@ -31,20 +39,20 @@ Solve coding problems within a set time, and show off your skills.
 
 ### Mark these dates:
 
-*   Online Round:
-    
-    *   August 27, 2023 (7:00 pm to 7:45 pm)
-        
-*   Offline Round:
-    
-    *   August 28, 2023 (11:00 am to 12:40 pm)
-        
-    *   venue: Lab 2 (1st Floor)
-        
+- Online Round:
 
-"We welcome your enthusiastic participation! Best of luck – get ready for an amazing experience!"
+  - August 27, 2023 (7:00 pm to 7:45 pm)
 
-* * *
+- Offline Round:
+
+  - August 28, 2023 (11:00 am to 12:40 pm)
+
+  - venue: Lab 2 (1st Floor)
+
+"We welcome your enthusiastic participation! Best of luck – get ready for an
+amazing experience!"
+
+---
 
 ## UPDATE: Link for CODENOVA Round 1
 
@@ -58,19 +66,26 @@ Pease fill all the details properly.
 
 The choice for Round 2 is given at the end of the quiz.
 
-* * *
+---
 
 ## UPDATE: CODENOVA Round 2
 
 Dear Participants,
 
-Thank you for your enthusiastic participation in CodeNova Round 1 Quiz. Your dedication to showcasing technical prowess is impressive. Congrats to those in Round 2! Your skills shine, and we're excited for the next stage.
+Thank you for your enthusiastic participation in CodeNova Round 1 Quiz. Your
+dedication to showcasing technical prowess is impressive. Congrats to those in
+Round 2! Your skills shine, and we're excited for the next stage.
 
-To those who didn't advance to the Second Round: We want you to know that your participation has been invaluable. The competition was tough, and your efforts and insights have been recognized. Remember, success is a journey, and each challenge is an opportunity to learn and grow. Your dedication to improving your skills is commendable, and we encourage you to keep pushing your boundaries.
+To those who didn't advance to the Second Round: We want you to know that your
+participation has been invaluable. The competition was tough, and your efforts
+and insights have been recognized. Remember, success is a journey, and each
+challenge is an opportunity to learn and grow. Your dedication to improving your
+skills is commendable, and we encourage you to keep pushing your boundaries.
 
-Your passion for technology drives the community. The journey continues—explore, innovate, embrace challenges. We're excited about your future successes.
+Your passion for technology drives the community. The journey continues—explore,
+innovate, embrace challenges. We're excited about your future successes.
 
-Best regards,  
+Best regards,\
 Team TechGeeks
 
 ### Selected Students for Round 2:

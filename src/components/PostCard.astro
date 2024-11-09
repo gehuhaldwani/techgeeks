@@ -8,28 +8,28 @@ import PostMetadata from './PostMeta.astro'
 import ImageWrapper from './misc/ImageWrapper.astro'
 
 interface Props {
-	class?: string
-	entry: any
-	title: string
-	url: string
-	published: Date
-	tags: string[]
-	category: string
-	image: string
-	description: string
-	draft: boolean
-	style: string
+  class?: string
+  entry: any
+  title: string
+  url: string
+  published: Date
+  tags: string[]
+  category: string
+  image: string
+  description: string
+  draft: boolean
+  style: string
 }
 const {
-	entry,
-	title,
-	url,
-	published,
-	tags,
-	category,
-	image,
-	description,
-	style,
+  entry,
+  title,
+  url,
+  published,
+  tags,
+  category,
+  image,
+  description,
+  style,
 } = Astro.props
 const className = Astro.props.class
 
@@ -126,14 +126,14 @@ const { remarkPluginFrontmatter } = await entry.render()
 					<Icon
 						name="material-symbols:chevron-right-rounded"
 						class="transition opacity-0 group-hover:opacity-100 scale-50 group-hover:scale-100 text-white text-5xl"
-					/>
+					></Icon>
 				</div>
 				<ImageWrapper
 					src={image}
 					basePath={path.join("content/posts/", getDir(entry.id))}
 					alt="Cover Image of the Post"
 					class="w-full h-full"
-				/>
+				></ImageWrapper>
 			</a>
 		)
 	}
@@ -151,7 +151,7 @@ const { remarkPluginFrontmatter } = await entry.render()
 				<Icon
 					name="material-symbols:chevron-right-rounded"
 					class="transition text-[var(--primary)] text-4xl mx-auto"
-				/>
+				></Icon>
 			</a>
 		)
 	}

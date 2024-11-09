@@ -11,14 +11,14 @@ tags:
   - quiz
 ---
 
-With a total of 450 participants across events, Engineer X 2.0 was a huge success. Here are the winners of the various events.
+With a total of 450 participants across events, Engineer X 2.0 was a huge
+success. Here are the winners of the various events.
 
 ---
 
 # Sudoku & Crossword
 
-:::note[Total Participants: 87]
-:::
+:::note[Total Participants: 87] :::
 
 | Position | Name           | Course | Sem |
 | -------- | -------------- | ------ | --- |
@@ -31,8 +31,7 @@ With a total of 450 participants across events, Engineer X 2.0 was a huge succes
 
 # Tech Quiz
 
-:::note[Total Participants: 111]
-:::
+:::note[Total Participants: 111] :::
 
 ## Group 1 (1st year)
 
@@ -95,8 +94,7 @@ With a total of 450 participants across events, Engineer X 2.0 was a huge succes
 
 # BGMI
 
-:::note[Total Participants: 140]
-:::
+:::note[Total Participants: 140] :::
 
 ### 1. MPG Esports
 
@@ -129,8 +127,7 @@ With a total of 450 participants across events, Engineer X 2.0 was a huge succes
 
 # Free Fire
 
-:::note[Total Participants: 104]
-:::
+:::note[Total Participants: 104] :::
 
 ### 1. Ultra Instinct
 
