@@ -57,8 +57,12 @@ design, we welcome you to join our team. This is a fantastic opportunity to
 develop your skills, work on exciting projects, and be part of a supportive
 community.
 
-:::important Intrested students may fill the
-[google form](https://forms.gle/hhzGAwwkD6KeixrX6) :::
+:::important
+
+Intrested students may fill the
+[google form](https://forms.gle/hhzGAwwkD6KeixrX6)
+
+:::
 
 ## Announcing Our New eSports Organizing Committee
 
@@ -88,4 +92,6 @@ Let's make this year at TechGeeks a memorable one, filled with learning, growth,
 and fun. Stay tuned for more updates, and we look forward to seeing you at our
 first meeting!
 
-> **Lakshyajeet Jalal**<br/> Student Representative<br/> Tech Geeks Club
+> **Lakshyajeet Jalal**\
+> Student Representative\
+> Tech Geeks Club
