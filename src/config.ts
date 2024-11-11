@@ -20,11 +20,15 @@ export const siteConfig: SiteConfig = {
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
-      text: 'Tech Geeks Crew',              // Credit text to be displayed
+      text: '',              // Credit text to be displayed
       url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
   ogImage: '/og.webp',    // Default Open Graph image, relative to the /public directory
+  toc: {
+    enable: true,           // Display the table of contents on the right side of the post
+    depth: 2                // Maximum heading depth to show in the table, from 1 to 3
+  },
   favicon: [    // Leave this array empty to use the default favicon
     {
       src: '/favicon/favicon-color-32.png',    // Path of the favicon, relative to the /public directory

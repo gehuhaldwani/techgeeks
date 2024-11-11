@@ -9,7 +9,7 @@
     "enabled": true,
     "formatWithErrors": false,
     "ignore": ["src/config.ts"],
-    "indentStyle": "tab",
+    "indentStyle": "space",
     "indentWidth": 2,
     "lineWidth": 80
   },

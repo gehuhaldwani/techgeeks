@@ -2,7 +2,7 @@ media:
   input: public/images
   output: /images
 
-content:
+content:    
   - name: posts
     label: Posts
     path: src/content/posts
@@ -43,3 +43,11 @@ content:
           options: { input: public/images, output: /images },
         }
       - { name: body, label: Body, type: rich-text, required: true }
+  - name: about
+    label: About Page
+    path: src/content/spec/about.md
+    type: file
+  - name: config
+    label: Site Config
+    path: src/config.ts
+    type: file
