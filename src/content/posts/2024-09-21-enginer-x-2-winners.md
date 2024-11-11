@@ -18,7 +18,9 @@ success. Here are the winners of the various events.
 
 # Sudoku & Crossword
 
-:::note[Total Participants: 87] :::
+:::note[Total Participants: 87]
+
+:::
 
 | Position | Name           | Course | Sem |
 | -------- | -------------- | ------ | --- |
@@ -31,7 +33,9 @@ success. Here are the winners of the various events.
 
 # Tech Quiz
 
-:::note[Total Participants: 111] :::
+:::note[Total Participants: 111]
+
+:::
 
 ## Group 1 (1st year)
 
@@ -94,7 +98,9 @@ success. Here are the winners of the various events.
 
 # BGMI
 
-:::note[Total Participants: 140] :::
+:::note[Total Participants: 140]
+
+:::
 
 ### 1. MPG Esports
 
@@ -127,7 +133,9 @@ success. Here are the winners of the various events.
 
 # Free Fire
 
-:::note[Total Participants: 104] :::
+:::note[Total Participants: 104]
+
+:::
 
 ### 1. Ultra Instinct
 

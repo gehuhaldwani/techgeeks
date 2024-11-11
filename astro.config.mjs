@@ -15,6 +15,7 @@ import remarkGithubAdmonitionsToDirectives from 'remark-github-admonitions-to-di
 import remarkMath from 'remark-math'
 import { AdmonitionComponent } from './src/plugins/rehype-component-admonition.mjs'
 import { GithubCardComponent } from './src/plugins/rehype-component-github-card.mjs'
+import { InstagramEmbedComponent } from './src/plugins/rehype-component-instagram.mjs'
 import { parseDirectiveNode } from './src/plugins/remark-directive-rehype.js'
 import { remarkExcerpt } from './src/plugins/remark-excerpt.js'
 import { remarkReadingTime } from './src/plugins/remark-reading-time.mjs'
@@ -85,11 +86,14 @@ export default defineConfig({
         {
           components: {
             github: GithubCardComponent,
+            instagram: InstagramEmbedComponent,
             note: (x, y) => AdmonitionComponent(x, y, 'note'),
             tip: (x, y) => AdmonitionComponent(x, y, 'tip'),
             important: (x, y) => AdmonitionComponent(x, y, 'important'),
+            info: (x, y) => AdmonitionComponent(x, y, 'important'),
             caution: (x, y) => AdmonitionComponent(x, y, 'caution'),
             warning: (x, y) => AdmonitionComponent(x, y, 'warning'),
+            danger: (x, y) => AdmonitionComponent(x, y, 'warning'),
           },
         },
       ],
