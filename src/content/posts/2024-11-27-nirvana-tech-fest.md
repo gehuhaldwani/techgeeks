@@ -46,3 +46,7 @@ image: /images/nirvana tech fest 2024/Nirvana Tech Fest.webp
     
 
 [Research Paper Presentation](https://forms.gle/hM1uYksgJ5Nyt29F8)
+
+* * *
+
+![](/images/nirvana%20tech%20fest%202024/TechFest_A4.png)
