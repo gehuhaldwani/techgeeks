@@ -30,7 +30,6 @@ const oklchToHex = str => {
   })
 }
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://techgeeks.gehuhaldwani.in',
   base: '/',
