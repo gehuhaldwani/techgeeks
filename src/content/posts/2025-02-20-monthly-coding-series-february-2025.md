@@ -10,7 +10,7 @@ image: /images/mcs_feb25.png
 Tech Geeks Club present Monthly Coding Series February 2025, a competitive
 programming contest for CS students.
 
-Form Link: [Register Now](https://forms.gle/F1mhKiCm1iAKg7yW8)
+Form Link: [Register Now](https://forms.gle/WuhXdfjEZATYGRFUA)
 
 ## Event Details
 
@@ -41,4 +41,4 @@ The contest will be held in two groups
 - Use of AI tools or any other unfair means will result in disqualification.
 - In case of any disputer the jury's decision will stand.
 
-Form Link: [Register Now](https://forms.gle/F1mhKiCm1iAKg7yW8)
+Form Link: [Register Now](https://forms.gle/WuhXdfjEZATYGRFUA)
