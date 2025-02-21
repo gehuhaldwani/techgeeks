@@ -1,11 +1,11 @@
 ---
-import { getPostUrlBySlug } from '@utils/url-utils'
-import PostCard from './PostCard.astro'
+import { getPostUrlBySlug } from "@utils/url-utils";
+import PostCard from "./PostCard.astro";
 
-const { page } = Astro.props
+const { page } = Astro.props;
 
-let delay = 0
-const interval = 50
+let delay = 0;
+const interval = 50;
 ---
 
 <div
@@ -22,6 +22,7 @@ const interval = 50
 					published: Date;
 					image: string;
 					description: string;
+					updated: Date;
 				};
 				slug: string;
 			}) => {
@@ -32,6 +33,7 @@ const interval = 50
 						tags={entry.data.tags}
 						category={entry.data.category}
 						published={entry.data.published}
+						updated={entry.data.updated}
 						url={getPostUrlBySlug(entry.slug)}
 						image={entry.data.image}
 						description={entry.data.description}

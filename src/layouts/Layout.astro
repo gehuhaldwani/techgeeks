@@ -1,5 +1,4 @@
 ---
-import GlobalStyles from "@components/GlobalStyles.astro";
 import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
@@ -19,6 +18,7 @@ import {
 import { defaultFavicons } from "../constants/icon";
 import type { Favicon } from "../types/config";
 import { url, pathsEqual } from "../utils/url-utils";
+import "katex/dist/katex.css";
 
 interface Props {
 	title?: string;
@@ -131,14 +131,6 @@ const bannerOffset =
 			))
 		}
 
-		<style
-			define:vars={{
-				configHue,
-				"page-width": `${PAGE_WIDTH}rem`,
-			}}
-		></style>
-		<!-- defines global css variables. This will be applied to <html> <body> and some other elements idk why -->
-
 		<!-- Set the theme before the page is rendered to avoid a flash -->
 		<script
 			is:inline
@@ -149,8 +141,10 @@ const bannerOffset =
 				AUTO_MODE,
 				BANNER_HEIGHT_EXTEND,
 				PAGE_WIDTH,
+				configHue,
 			}}
 		>
+			// Load the theme from local storage
 			const theme = localStorage.getItem("theme") || DEFAULT_THEME;
 			switch (theme) {
 				case LIGHT_MODE:
@@ -170,6 +164,10 @@ const bannerOffset =
 					}
 			}
 
+			// Load the hue from local storage
+			const hue = localStorage.getItem("hue") || configHue;
+			document.documentElement.style.setProperty("--hue", hue);
+
 			// calculate the --banner-height-extend, which needs to be a multiple of 4 to avoid blurry text
 			let offset = Math.floor(
 				window.innerHeight * (BANNER_HEIGHT_EXTEND / 100),
@@ -179,28 +177,16 @@ const bannerOffset =
 				"--banner-height-extend",
 				`${offset}px`,
 			);
-
-			// calculate the width of TOC widget
-			const rootFontSize = parseFloat(
-				getComputedStyle(document.documentElement).fontSize,
-			);
-			const mainGridWidthPx = PAGE_WIDTH * rootFontSize;
-			const tocWidth =
-				(window.innerWidth - mainGridWidthPx) / 2 - rootFontSize;
-			document.documentElement.style.setProperty(
-				"--toc-width",
-				`${tocWidth}px`,
-			);
 		</script>
+		<style
+			define:vars={{
+				configHue,
+				"page-width": `${PAGE_WIDTH}rem`,
+			}}
+		></style>
+		<!-- defines global css variables. This will be applied to <html> <body> and some other elements idk why -->
 
 		<slot name="head" />
-
-		<link
-			rel="stylesheet"
-			href="https://cdn.staticfile.net/KaTeX/0.16.9/katex.min.css"
-			integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV"
-			crossorigin="anonymous"
-		/>
 
 		<link
 			rel="alternate"
@@ -217,20 +203,12 @@ const bannerOffset =
 		data-overlayscrollbars-initialize
 	>
 		<ConfigCarrier />
-		<GlobalStyles>
-			<slot />
-		</GlobalStyles>
+		<slot />
 
 		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
 	</body>
 </html>
-
-<style is:global>
-	:root {
-		--hue: var(--configHue);
-	}
-</style>
 
 <style
 	is:global
@@ -397,13 +375,24 @@ function disableAnimation() {
 				},
 			},
 		);
-		document.querySelectorAll("pre").forEach((ele) => {
+		const preElements = document.querySelectorAll("pre");
+		preElements.forEach((ele) => {
 			OverlayScrollbars(ele, {
 				scrollbars: {
 					theme: "scrollbar-base scrollbar-dark px-2",
 					autoHide: "leave",
 					autoHideDelay: 500,
 					autoHideSuspend: false,
+				},
+			});
+		});
+		const katexElements = document.querySelectorAll(
+			".katex-display",
+		) as NodeListOf<HTMLElement>;
+		katexElements.forEach((ele) => {
+			OverlayScrollbars(ele, {
+				scrollbars: {
+					theme: "scrollbar-base scrollbar-auto py-1",
 				},
 			});
 		});
@@ -428,10 +417,6 @@ function disableAnimation() {
 
 	/* Load settings when entering the site */
 	init();
-
-	/* Load settings before swapping */
-	/* astro:after-swap event happened before swap animation */
-	document.addEventListener("astro:after-swap", init);
 
 	const setup = () => {
 		// TODO: temp solution to change the height of the banner
@@ -592,18 +577,6 @@ function disableAnimation() {
 		document.documentElement.style.setProperty(
 			"--banner-height-extend",
 			`${offset}px`,
-		);
-
-		// calculate the width of TOC widget
-		const rootFontSize = parseFloat(
-			getComputedStyle(document.documentElement).fontSize,
-		);
-		const mainGridWidthPx = PAGE_WIDTH * rootFontSize;
-		const tocWidth =
-			(window.innerWidth - mainGridWidthPx) / 2 - rootFontSize;
-		document.documentElement.style.setProperty(
-			"--toc-width",
-			`${tocWidth}px`,
 		);
 	};
 </script>

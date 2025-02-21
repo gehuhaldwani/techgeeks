@@ -2,7 +2,7 @@ media:
   input: public/images
   output: /images
 
-content:    
+content:
   - name: posts
     label: Posts
     path: src/content/posts

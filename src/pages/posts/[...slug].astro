@@ -123,6 +123,7 @@ const jsonLd = {
 				<PostMetadata
 					class="mb-5"
 					published={entry.data.published}
+					updated={entry.data.updated}
 					tags={entry.data.tags}
 					category={entry.data.category}
 				/>
@@ -177,7 +178,7 @@ const jsonLd = {
 		>
 			{
 				entry.data.nextSlug && (
-					<div class="btn-card rounded-2xl w-full h-[3.75rem] max-w-full px-4 flex items-center justify-start gap-4">
+					<div class="btn-card rounded-2xl w-full h-[3.75rem] max-w-full px-4 flex items-center !justify-start gap-4">
 						<Icon
 							name="material-symbols:chevron-left-rounded"
 							class="text-[2rem] text-[var(--primary)]"
@@ -201,7 +202,7 @@ const jsonLd = {
 		>
 			{
 				entry.data.prevSlug && (
-					<div class="btn-card rounded-2xl w-full h-[3.75rem] max-w-full px-4 flex items-center justify-end gap-4">
+					<div class="btn-card rounded-2xl w-full h-[3.75rem] max-w-full px-4 flex items-center !justify-end gap-4">
 						<div class="overflow-hidden transition overflow-ellipsis whitespace-nowrap max-w-[calc(100%_-_3rem)] text-black/75 dark:text-white/75">
 							{entry.data.prevTitle}
 						</div>
@@ -215,24 +216,3 @@ const jsonLd = {
 		</a>
 	</div>
 </MainGridLayout>
-
-<style is:global>
-	#post-container :nth-child(1) {
-		animation-delay: calc(var(--content-delay) + 0ms);
-	}
-	#post-container :nth-child(2) {
-		animation-delay: calc(var(--content-delay) + 50ms);
-	}
-	#post-container :nth-child(3) {
-		animation-delay: calc(var(--content-delay) + 100ms);
-	}
-	#post-container :nth-child(4) {
-		animation-delay: calc(var(--content-delay) + 175ms);
-	}
-	#post-container :nth-child(5) {
-		animation-delay: calc(var(--content-delay) + 250ms);
-	}
-	#post-container :nth-child(6) {
-		animation-delay: calc(var(--content-delay) + 325ms);
-	}
-</style>
