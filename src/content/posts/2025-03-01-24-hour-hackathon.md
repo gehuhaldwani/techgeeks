@@ -6,6 +6,7 @@ draft: false
 category: events
 tags:
   - hackathon
+image: /images/24_hr_hack_mar25
 ---
 School of Computing (SOC) and TechGeeks Club of Graphic Era Hill University are organizing a 24-Hour Hack-a-thon on 6-7 March 2025.
 
@@ -17,7 +18,7 @@ School of Computing (SOC) and TechGeeks Club of Graphic Era Hill University are 
 *   <p style="text-align: justify"><strong>Timings:</strong> 11:00AM onwards</p>
 *   <p style="text-align: justify"><strong>Venue</strong>: Multi-Purpose Hall, Graphic Era Hill University, Haldwani</p>
 
-##  **Categories:**
+## **Categories:**
 
 ### **Category 1 (Senior Level)**
 
