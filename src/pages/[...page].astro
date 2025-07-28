@@ -1,7 +1,7 @@
 ---
 import type { GetStaticPaths } from "astro";
-import PostPage from "../components/PostPage.astro";
 import Pagination from "../components/control/Pagination.astro";
+import PostPage from "../components/PostPage.astro";
 import { PAGE_SIZE } from "../constants/constants";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 import { getSortedPosts } from "../utils/content-utils";
@@ -18,10 +18,6 @@ const len = page.data.length;
 ---
 
 <MainGridLayout>
-	<PostPage page={page} />
-	<Pagination
-		class="mx-auto onload-animation"
-		page={page}
-		style=`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`
-	/>
+    <PostPage page={page}></PostPage>
+    <Pagination class="mx-auto onload-animation" page={page} style={`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`}></Pagination>
 </MainGridLayout>

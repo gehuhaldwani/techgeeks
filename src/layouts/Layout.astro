@@ -3,8 +3,8 @@ import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
-import { profileConfig, siteConfig } from "@/config";
 import ConfigCarrier from "@components/ConfigCarrier.astro";
+import { profileConfig, siteConfig } from "@/config";
 import {
 	AUTO_MODE,
 	BANNER_HEIGHT,
@@ -17,7 +17,7 @@ import {
 } from "../constants/constants";
 import { defaultFavicons } from "../constants/icon";
 import type { Favicon } from "../types/config";
-import { url, pathsEqual } from "../utils/url-utils";
+import { pathsEqual, url } from "../utils/url-utils";
 import "katex/dist/katex.css";
 
 interface Props {
@@ -268,8 +268,8 @@ const bannerOffset =
 		BANNER_HEIGHT_HOME,
 		BANNER_HEIGHT_EXTEND,
 		MAIN_PANEL_OVERLAPS_BANNER_HEIGHT,
-		PAGE_WIDTH,
 	} from "../constants/constants";
+	import { siteConfig } from "../config";
 
 	/* Preload fonts */
 	// (async function() {
@@ -375,35 +375,66 @@ function disableAnimation() {
 				},
 			},
 		);
-		const preElements = document.querySelectorAll("pre");
-		preElements.forEach((ele) => {
-			OverlayScrollbars(ele, {
+
+		const katexElements = document.querySelectorAll(
+			".katex-display",
+		) as NodeListOf<HTMLElement>;
+
+		const katexObserverOptions = {
+			root: null,
+			rootMargin: "100px",
+			threshold: 0.1,
+		};
+
+		const processKatexElement = (element: HTMLElement) => {
+			if (!element.parentNode) return;
+			if (element.hasAttribute("data-scrollbar-initialized")) return;
+
+			const container = document.createElement("div");
+			container.className = "katex-display-container";
+			container.setAttribute(
+				"aria-label",
+				"scrollable container for formulas",
+			);
+
+			element.parentNode.insertBefore(container, element);
+			container.appendChild(element);
+
+			OverlayScrollbars(container, {
 				scrollbars: {
-					theme: "scrollbar-base scrollbar-dark px-2",
+					theme: "scrollbar-base scrollbar-auto",
 					autoHide: "leave",
 					autoHideDelay: 500,
 					autoHideSuspend: false,
 				},
 			});
-		});
-		const katexElements = document.querySelectorAll(
-			".katex-display",
-		) as NodeListOf<HTMLElement>;
-		katexElements.forEach((ele) => {
-			OverlayScrollbars(ele, {
-				scrollbars: {
-					theme: "scrollbar-base scrollbar-auto py-1",
-				},
+
+			element.setAttribute("data-scrollbar-initialized", "true");
+		};
+
+		const katexObserver = new IntersectionObserver((entries, observer) => {
+			entries.forEach((entry) => {
+				if (entry.isIntersecting) {
+					processKatexElement(entry.target as HTMLElement);
+					observer.unobserve(entry.target);
+				}
 			});
+		}, katexObserverOptions);
+
+		katexElements.forEach((element) => {
+			katexObserver.observe(element);
 		});
 	}
 
 	function showBanner() {
+		if (!siteConfig.banner.enable) return;
+
 		const banner = document.getElementById("banner");
 		if (!banner) {
-			console.error("Failed to find the banner element");
+			console.error("Banner element not found");
 			return;
 		}
+
 		banner.classList.remove("opacity-0", "scale-105");
 	}
 
@@ -488,7 +519,7 @@ function disableAnimation() {
 				heightExtend.classList.remove("hidden");
 			}
 		});
-		window.swup.hooks.on("visit:end", (visit: { to: { url: string } }) => {
+		window.swup.hooks.on("visit:end", (_visit: { to: { url: string } }) => {
 			setTimeout(() => {
 				const heightExtend =
 					document.getElementById("page-height-extend");
