@@ -29,19 +29,19 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: latest
+          node-version: "20"
 
-      # - name: Install pnpm
-      #   run: npm install -g pnpm
+      - name: Install pnpm
+        run: npm install -g pnpm
 
       - name: Install Dependencies
-        run: npm install
+        run: pnpm install
 
-      # - name: Add Sharp
-      #   run: pnpm add sharp
+      - name: Add Sharp
+        run: pnpm add sharp
 
       - name: Build Astro
-        run: npm run build
+        run: pnpm build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
