@@ -3,7 +3,7 @@ title: SIH INTERNAL HACKATHON 2025
 description: 🚀 Tech Geeks Presents — SIH INTERNAL HACKATHON 2025 💡
 published: 2025-08-20T12:00:00.000Z
 draft: false
-image: /images/WhatsApp Image 2025-08-20 at 22.51.00_5d3c646b.jpg
+image: /images/sih_poster.jpg
 ---
 🚀 Tech Geeks Presents — SIH INTERNAL HACKATHON 2025 💡
 
@@ -27,6 +27,6 @@ The Smart India Hackathon (SIH) is a national-level innovation challenge by the 
 
 👉 Fill the form here: [https://forms.gle/NDJmFbdCZYvWa4S5A](https://forms.gle/NDJmFbdCZYvWa4S5A)
 
-💬 “Hackathons aren’t just about coding… they’re about creating impact!”
+💬 "Hackathons aren't just about coding… they're about creating impact!"
 
-Bring your ideas, form your dream team, and get ready to innovate like never before. 🚀
+Bring your ideas, form your dream team, and get ready to innovate like never before.🚀

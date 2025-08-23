@@ -40,7 +40,7 @@ Project Circle is your go-to space for:
 :::
 
 Whether you have a groundbreaking idea or need some guidance, Project Circle is
-here to help you take the next step. Don’t miss out on this opportunity to be
+here to help you take the next step. Don't miss out on this opportunity to be
 part of a dynamic tech community!
 
 We look forward to seeing you there!

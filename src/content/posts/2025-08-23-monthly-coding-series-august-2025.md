@@ -3,7 +3,7 @@ title: Monthly Coding Series August 2025
 description: Tech Geeks Monthly Coding Series Augusst 2025
 published: 2025-08-22T12:00:00.000Z
 draft: false
-image: /images/WhatsApp Image 2025-08-22 at 12.51.36_cd9ffe02.jpg
+image: /images/mcs_august.jpg
 ---
 📢 Tech Geeks Monthly Coding Series
 

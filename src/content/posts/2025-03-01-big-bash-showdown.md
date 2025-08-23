@@ -21,7 +21,7 @@ Get ready for the ultimate _Free Fire Tournament! 💥 Battle it out, showcase y
 
 📢 _Register now and secure your spot!_
 
-📌 Limited slots available—don’t miss out!
+📌 Limited slots available—don't miss out!
 
 👉 _To register:_ [https://forms.gle/VZeV8NDbCUvWjDyp7](https://forms.gle/VZeV8NDbCUvWjDyp7)
 

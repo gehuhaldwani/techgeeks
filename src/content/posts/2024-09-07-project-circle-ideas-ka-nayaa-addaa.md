@@ -9,7 +9,7 @@ tags:
 
 ## A New Initiative Takes Flight
 
-The Tech Club’s _Project Circle_ is something students had been eagerly looking
+The Tech Club's _Project Circle_ is something students had been eagerly looking
 forward to, and the first day did not disappoint. This new student-led
 initiative was set up to be a space for brainstorming, discussing, and
 developing ideas, all without any teacher involvement. The aim was to give
@@ -22,7 +22,7 @@ was a fresh start for those looking to explore new ideas and work together.
 
 When students first arrived, there was a mix of excitement and uncertainty. Many
 were unsure of what to expect, which is pretty normal when starting something
-new. The question **“Akhir hogaa kya ismee?”** was on a lot of minds, showing
+new. The question **"Akhir hogaa kya ismee?"** was on a lot of minds, showing
 their curiosity and a bit of doubt about the new setup. Still, the room was
 vibing with anticipation. **Students were eager to find out what the Project
 Circle had to offer and how it could benefit them.**
@@ -44,15 +44,15 @@ creativity and technical skills.
   clear that this idea could significantly enhance the way presentations are
   delivered and engaged with.
 
-- Additionally, a new idea emerged for a “**Food Court-like app-based Booking
-  System”** designed for the college cafeteria and tuck shops. The proposed
+- Additionally, a new idea emerged for a "**Food Court-like app-based Booking
+  System"** designed for the college cafeteria and tuck shops. The proposed
   system would use QR codes placed on tables. Students could scan these codes to
   place their orders directly from their phones and then wait for notifications
   when their food was ready. This approach aimed to streamline the ordering
   process, reduce wait times, and improve overall convenience for students.
 
-- Another proposal introduced was an **“E-Certificate Generation tool for
-  College Clubs”.** This tool would simplify the process of creating and
+- Another proposal introduced was an **"E-Certificate Generation tool for
+  College Clubs".** This tool would simplify the process of creating and
   managing certificates for various club activities. By automating certificate
   generation, the tool was expected to enhance productivity and ensure that
   students could easily recognize and reward their peers' efforts.
