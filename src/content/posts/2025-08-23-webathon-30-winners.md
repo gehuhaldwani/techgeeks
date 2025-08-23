@@ -8,11 +8,12 @@ draft: false
 
 We are excited to announce the winners of Web-A-Thon 2025!
 
-🥇 1st Prize – Web Head
-
-🥈 2nd Prize – Web Elevate
-
-🥉 3rd Prize – Legendary Coders
+*   🥇 1st Prize – Web Head
+    
+*   🥈 2nd Prize – Web Elevate
+    
+*   🥉 3rd Prize – Legendary Coders
+    
 
 ✨ Honourable Mentions for Promising Innovators
 
