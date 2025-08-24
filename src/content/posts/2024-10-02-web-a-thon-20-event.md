@@ -22,7 +22,7 @@ announced based on their performance.
 
 ::instagram{url="https://www.instagram.com/p/DAlhU2fhZcC"}
 
-## Winners:
+## Winners
 
 ### 1\. Brawlers
 
@@ -45,7 +45,7 @@ announced based on their performance.
 
 ::github{repo="techgeeksgehu/webathon2-maverick"}
 
-### 3\. ⁠Tech Masterminds
+### 3\. ⁠Tech Masterminds
 
 | Name                  | Course        | Sem | Sec | Campus   |
 | --------------------- | ------------- | --- | --- | -------- |
@@ -58,7 +58,7 @@ announced based on their performance.
 
 ::github{repo="techgeeksgehu/webathon2-techmasterminds"}
 
-## Notable Entires:
+## Notable Entires
 
 :::note
 
