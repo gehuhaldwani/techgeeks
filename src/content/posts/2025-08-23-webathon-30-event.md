@@ -1,6 +1,6 @@
 ---
 title: Webathon 3.0 Event
-description: Winners off webathon 3.0 announced
+description: Winners of webathon 3.0 announced
 published: 2025-08-23T12:00:00.000Z
 draft: false
 category: Events
