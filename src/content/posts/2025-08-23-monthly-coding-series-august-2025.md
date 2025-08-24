@@ -7,8 +7,6 @@ image: /images/mcs_august.jpg
 ---
 📢 Tech Geeks Monthly Coding Series
 
-📅 Date: 28th August 2025
-
 We are pleased to announce that the Tech Geeks Club will be organizing its Monthly Coding Series on 28th August. This initiative is aimed at encouraging students to enhance their coding skills, strengthen problem-solving abilities, and prepare effectively for future opportunities.
 
 🔗 Registration Form: [https://forms.gle/eJvkq2BXvj8rikmLA](https://forms.gle/eJvkq2BXvj8rikmLA)
@@ -16,3 +14,39 @@ We are pleased to announce that the Tech Geeks Club will be organizing its Month
 📲 Join WhatsApp Group for Updates: [https://chat.whatsapp.com/CFimgPdu5QI88rAYJGGwcp?mode=ac\_t](https://chat.whatsapp.com/CFimgPdu5QI88rAYJGGwcp?mode=ac_t)
 
 We invite all students to participate and make the most of this opportunity for skill development and growth.
+
+# Rules
+
+*   Contest will be on [**HackerEarth**](https://www.hackerearth.com/) platform, and a HackerEarth account is required.
+    
+*   Duration: 1.5 hours
+    
+*   Ranking will be based on the number of test cases passed in the given time frame.
+    
+*   Use of AI tools or any other unfair means will result in disqualification.
+    
+*   In case of any disputer the jury's decision will stand.
+    
+*   The contest will be held in two groups
+    
+
+## Group 1
+
+*   BCA / [B.TECH](http://B.TECH) year 2
+    
+*   Thursday, 29th August 2025
+    
+*   11:00 AM - 1:00 PM
+    
+*   Computer Lab 1
+    
+
+## Group 2
+
+*   BCA Year 3 / [B.TECH](http://B.TECH) Year 3 / MCA
+    
+*   Thursday, 27th August 2025
+    
+*   3:00 PM - 5:00 PM
+    
+*   Computer Lab 1
