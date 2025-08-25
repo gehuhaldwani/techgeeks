@@ -17,19 +17,29 @@ The Smart India Hackathon (SIH) is a national-level innovation challenge by the 
 
 ## Details
 
-* 📅 Date: Thursday, 4th September 2025
-* ⏰ Time: 10:00 AM - 5:00 PM
-* 📍 Venue: LT1
-* 👥 Team Size: Exactly 6 members (must include at least 1 female candidate)
+*   📅 Date: Thursday, 4th September 2025
+    
+*   ⏰ Time: 10:00 AM - 5:00 PM
+    
+*   📍 Venue: LT1
+    
+*   👥 Team Size: Exactly 6 members (must include at least 1 female candidate)
+    
 
 ## Guidelines
 
-* Each team must have **exactly 6 members** (with **at least 1 female member compulsory**).
-* Teams are required to **present their idea** during the internal hackathon.
-* **Problem Statements** [SIH Website](https://sih.gov.in/sih2025PS)
-* Teams have to prepare a **short presentation (PPT/idea brief)** about their solution.
-* A **sample PPT format will be provided** to all registered teams.
-* Evaluation will be based on **innovation, feasibility, teamwork, and presentation skills**.
+*   Each team must have **exactly 6 members** (with **at least 1 female member compulsory**).
+    
+*   Teams are required to **present their idea** during the internal hackathon.
+    
+*   **Problem Statements** [SIH Website](https://sih.gov.in/sih2025PS)
+    
+*   Teams have to prepare a **short presentation (PPT/idea brief)** about their solution.
+    
+*   **Sample PPT** [format](https://sih.gov.in/letters/SIH2025-IDEA-Presentation-Format.pptx)
+    
+*   Evaluation will be based on **innovation, feasibility, teamwork, and presentation skills**.
+    
 
 📝 Registration is NOW OPEN!
 
