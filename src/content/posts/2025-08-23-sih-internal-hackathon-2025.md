@@ -11,7 +11,7 @@ image: /images/sih_poster.jpg
 
 This is your chance to showcase your creativity and secure a spot to represent our campus in the Smart India Hackathon (SIH) Nationals!
 
-## 💡 What is SIH?
+# 💡 What is SIH?
 
 The Smart India Hackathon (SIH) is a national-level innovation challenge by the Government of India, where students work in teams to solve real-world problems given by industries, government bodies, and NGOs. Winning teams from the internal hackathon will move forward to represent our institute at the national SIH stage. 🚀
 
@@ -26,7 +26,7 @@ The Smart India Hackathon (SIH) is a national-level innovation challenge by the 
 *   👥 Team Size: Exactly 6 members (must include at least 1 female candidate)
     
 
-## Guidelines
+# Guidelines
 
 *   Each team must have **exactly 6 members** (with **at least 1 female member compulsory**).
     
@@ -41,7 +41,7 @@ The Smart India Hackathon (SIH) is a national-level innovation challenge by the 
 *   Evaluation will be based on **innovation, feasibility, teamwork, and presentation skills**.
     
 
-## 📝 Registration
+# 📝 Registration
 
 👉 Fill the form here: [https://forms.gle/NDJmFbdCZYvWa4S5A](https://forms.gle/NDJmFbdCZYvWa4S5A)
 
