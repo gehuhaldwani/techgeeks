@@ -32,7 +32,7 @@ We invite all students to participate and make the most of this opportunity for 
 
 ## Group 1
 
-*   BCA / [B.TECH](http://B.TECH) year 2
+*   BCA / B.TECH year 2
     
 *   Friday, 29th August 2025
     
@@ -43,7 +43,7 @@ We invite all students to participate and make the most of this opportunity for 
 
 ## Group 2
 
-*   BCA Year 3 / [B.TECH](http://B.TECH) Year 3 / MCA
+*   BCA Year 3 / B.TECH Year 3 / MCA
     
 *   Wednesday, 27th August 2025
     
