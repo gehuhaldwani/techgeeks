@@ -11,34 +11,25 @@ image: /images/sih_poster.jpg
 
 This is your chance to showcase your creativity and secure a spot to represent our campus in the Smart India Hackathon (SIH) Nationals!
 
-# 💡 What is SIH?
+## 💡 What is SIH?
 
 The Smart India Hackathon (SIH) is a national-level innovation challenge by the Government of India, where students work in teams to solve real-world problems given by industries, government bodies, and NGOs. Winning teams from the internal hackathon will move forward to represent our institute at the national SIH stage. 🚀
 
-# Details
+## Details
 
-*   📅 Date: Thursday, 4th September 2025
-    
-*   ⏰ Time: To be announced
-    
-*   📍 Venue: LT1
-    
-*   👥 Team Size: Exactly 6 members (must include at least 1 female candidate)
-    
-    # Guidelines
-    
-    *   Each team must have **exactly 6 members** (with **at least 1 female member compulsory**).  
-        
-*     Teams are required to **present their idea** during the internal hackathon.
-    
-*      **Problem Statements** will be provided soon.
-    
-*      Teams have to prepare a **short presentation (PPT/idea brief)** about their solution.
-    
-*      A **sample PPT format will be provided** to all registered teams.  
-    
-*     Evaluation will be based on **innovation, feasibility, teamwork, and presentation skills**. 
-    
+* 📅 Date: Thursday, 4th September 2025
+* ⏰ Time: 10:00 AM - 5:00 PM
+* 📍 Venue: LT1
+* 👥 Team Size: Exactly 6 members (must include at least 1 female candidate)
+
+## Guidelines
+
+* Each team must have **exactly 6 members** (with **at least 1 female member compulsory**).
+* Teams are required to **present their idea** during the internal hackathon.
+* **Problem Statements** [SIH Website](https://sih.gov.in/sih2025PS)
+* Teams have to prepare a **short presentation (PPT/idea brief)** about their solution.
+* A **sample PPT format will be provided** to all registered teams.
+* Evaluation will be based on **innovation, feasibility, teamwork, and presentation skills**.
 
 📝 Registration is NOW OPEN!
 
