@@ -22,7 +22,7 @@ Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on comput
 
 *   Venue: MPH, Academic Block
     
-*   **Timing:** 11:00 AM Onwards
+*   **Timing:** 11:00 AM onward
     
 *   **Registration Link:** [https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview](https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview)
     
@@ -48,6 +48,6 @@ Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
 
 *   **Venue:** Porch Area
     
-*   **Timing:** 10:00 AM onwards
+*   **Timing:** 10:00 AM onward
     
 *   Open Entry
