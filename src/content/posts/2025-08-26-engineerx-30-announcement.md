@@ -12,48 +12,55 @@ On the occasion of Engineer’s Day 2025, TechGeeks Club proudly presents Engine
 
 Get ready to showcase your skills, challenge your brain, and enjoy a day packed with thrill and enthusiasm.
 
-**Events Lineup:**
+# Registeration Link
+
+- Tech Quiz: [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
+- Crossword & Sudoku Challenge: [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+
+# Events Lineup
 
 ![](/images/EngineerX_3.0_TechQuiz.jpg)
 
-# Tech Quiz
+## Tech Quiz
 
 Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on computers, coding, gadgets, AI & emerging tech!
 
-*   **Venue:** MPH, Academic Block
-    
-*   **Timing:** 11:00 AM onward
-    
-*   **Team Size:** 4 members
-    
-*   **Categories:**
-    
-    *   Junior: 1st year B.Tech / BCA
-        
-    *   Senior: 2nd & 3rd year B.Tech / BCA / MCA
-        
+- **Venue:** MPH, Academic Block
+
+- **Timing:** 11:00 AM onward
+
+- **Team Size:** 4 members
+
+- **Categories:**
+  - Junior: 1st year B.Tech / BCA
+  - Senior: 2nd & 3rd year B.Tech / BCA / MCA
+  
+- **Rounds:**
+  - Preliminary (Written)
+  - Final (Buzzer)
+
+- **Registration Link:** [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
 
 ![](/images/EnginnerX_3.0_Sudoku%26Crossword.jpg)
 
-# Crossword & Sudoku Challenge
+## Crossword & Sudoku Challenge
 
 Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdown.
 
-*   **Venue:** MPH, Academic Block
-    
-*   **Timing:** 9:00 AM - 10:30 AM
-    
-*   **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
-    
+- **Venue:** MPH, Academic Block
 
-![](/images/3.jpg)![](/images/EngineerX_3.0_Snake%26Ladder.jpg)
+- **Timing:** 9:00 AM - 10:30 AM
 
-# Snake & Ladder Game
+- **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+
+![](/images/EngineerX_3.0_Snake%26Ladder.jpg)
+
+## Snake & Ladder Game
 
 Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
 
-*   **Venue:** Porch Area
-    
-*   **Timing:** 10:00 AM onward
-    
-*   On spot entry
+- **Venue:** Porch Area
+
+- **Timing:** 10:00 AM onward
+
+- On spot entry
