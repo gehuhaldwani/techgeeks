@@ -41,7 +41,7 @@ Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on comput
 
 - **Registration Link:** [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
 
-![](/images/EnginnerX_3.0_Sudoku%26Crossword.jpg)
+![](/images/EnginnerX_3.0_Sudoku&Crossword.jpg)
 
 ## Crossword & Sudoku Challenge
 
@@ -53,7 +53,7 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
 
 - **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
 
-![](/images/EngineerX_3.0_Snake%26Ladder.jpg)
+![](/images/EngineerX_3.0_Snake&Ladder.jpg)
 
 ## Snake & Ladder Game
 
