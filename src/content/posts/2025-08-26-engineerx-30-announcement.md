@@ -12,11 +12,11 @@ On the occasion of Engineer’s Day 2025, TechGeeks Club proudly presents Engine
 
 Get ready to showcase your skills, challenge your brain, and enjoy a day packed with thrill and enthusiasm.
 
-# Events Lineup:
+Events Lineup:
 
 ![](/images/EngineerX_3.0_TechQuiz.jpg)
 
-## Tech Quiz
+# Tech Quiz
 
 Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on computers, coding, gadgets, AI & emerging tech!
 
@@ -27,9 +27,9 @@ Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on comput
 *   **Registration Link:** [https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview](https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview)
     
 
-![](/images/2.jpg)
+![](/images/EnginnerX_3.0_Sudoku%26Crossword.jpg)
 
-## Crossword & Sudoku Challenge
+# Crossword & Sudoku Challenge
 
 Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdown.
 
@@ -40,9 +40,9 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
 *   **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
     
 
-![](/images/3.jpg)
+![](/images/3.jpg)![](/images/EngineerX_3.0_Snake%26Ladder.jpg)
 
-## Snake & Ladder Game
+# Snake & Ladder Game
 
 Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
 
