@@ -12,7 +12,7 @@ On the occasion of Engineer’s Day 2025, TechGeeks Club proudly presents Engine
 
 Get ready to showcase your skills, challenge your brain, and enjoy a day packed with thrill and enthusiasm.
 
-Events Lineup:
+**Events Lineup:**
 
 ![](/images/EngineerX_3.0_TechQuiz.jpg)
 
@@ -20,12 +20,18 @@ Events Lineup:
 
 Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on computers, coding, gadgets, AI & emerging tech!
 
-*   Venue: MPH, Academic Block
+*   **Venue:** MPH, Academic Block
     
 *   **Timing:** 11:00 AM onward
     
-*   **Registration Link:** [https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview](https://docs.google.com/forms/d/e/1FAIpQLSeZrTcU68XyoDXQPdbemPETNS6D1Bc5-WG0rMlX2CCI-1ctTA/viewform?usp=preview)
+*   **Team Size:** 4 members
     
+*   **Categories:**
+    
+    *   Junior: 1st year B.Tech / BCA
+        
+    *   Senior: 2nd & 3rd year B.Tech / BCA / MCA
+        
 
 ![](/images/EnginnerX_3.0_Sudoku%26Crossword.jpg)
 
@@ -50,4 +56,4 @@ Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
     
 *   **Timing:** 10:00 AM onward
     
-*   Open Entry
+*   On spot entry
