@@ -60,7 +60,7 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
 
 *   **Venue:** MPH, Academic Block
     
-*   **Timing:** 9:00 AM - 10:30 AM
+*   **Timing:** 9:30 AM - 10:30 AM
     
 *   **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
     
