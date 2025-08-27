@@ -64,6 +64,8 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
     
 *   **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
     
+*   Open to all courses
+    
 
 ![](/images/EngineerX_3.0_Snake&Ladder.jpg)
 
@@ -74,5 +76,7 @@ Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
 *   **Venue:** Porch Area
     
 *   **Timing:** 10:00 AM onward
+    
+*   Open to all couses
     
 *   On spot entry
