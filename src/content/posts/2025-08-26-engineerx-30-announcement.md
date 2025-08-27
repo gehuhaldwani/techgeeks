@@ -67,7 +67,7 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
 *   Open to all courses
     
 
-![](/images/EngineerX_3.0_Snake&Ladder.jpg)
+![](/images/Snake%20&%20Ladderrs.png)
 
 ## Snake & Ladder Game
 
