@@ -12,7 +12,7 @@ On the occasion of Engineer’s Day 2025, TechGeeks Club proudly presents Engine
 
 Get ready to showcase your skills, challenge your brain, and enjoy a day packed with thrill and enthusiasm.
 
-# Registeration Link
+# Registration Link
 
 *   Tech Quiz: [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
     
