@@ -6,7 +6,7 @@ description: This Engineer’s Day, we’re back with EngineerX 3.0, a celebrati
   the joy of being an engineer.
 published: 2025-08-26T12:00:00.000Z
 draft: false
-image: /images/Collage EngineerX.webp
+image: /images/WhatsApp Image 2025-08-27 at 01.03.55_24356451.jpg
 ---
 On the occasion of Engineer’s Day 2025, TechGeeks Club proudly presents EngineerX 3.0 – a celebration filled with exciting competitions, fun, and learning! 🚀
 
