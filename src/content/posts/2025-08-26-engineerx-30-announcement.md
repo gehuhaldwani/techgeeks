@@ -14,8 +14,10 @@ Get ready to showcase your skills, challenge your brain, and enjoy a day packed 
 
 # Registeration Link
 
-- Tech Quiz: [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
-- Crossword & Sudoku Challenge: [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+*   Tech Quiz: [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
+    
+*   Crossword & Sudoku Challenge: [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+    
 
 # Events Lineup
 
@@ -25,21 +27,30 @@ Get ready to showcase your skills, challenge your brain, and enjoy a day packed 
 
 Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on computers, coding, gadgets, AI & emerging tech!
 
-- **Venue:** MPH, Academic Block
-
-- **Timing:** 11:00 AM onward
-
-- **Team Size:** 4 members
-
-- **Categories:**
-  - Junior: 1st year B.Tech / BCA
-  - Senior: 2nd & 3rd year B.Tech / BCA / MCA
-  
-- **Rounds:**
-  - Preliminary (Written)
-  - Final (Buzzer)
-
-- **Registration Link:** [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
+*   **Venue:** MPH, Academic Block
+    
+*   **Timing:** 11:00 AM onward
+    
+*   **Team Size:** 4 members
+    
+*   **Categories:**
+    
+    *   Junior: 1st year B.Tech / BCA (Mixed course teams allowed)
+        
+    *   Senior: 2nd & 3rd year B.Tech / BCA / MCA (Mixed course/sem teams allowed)
+        
+*   **Rounds:**
+    
+    *   Preliminary (Written)
+        
+        *   11:00 AM - 12:00 PM
+            
+        *   50 Questions (25 Aptitude + 25 Tech)
+            
+    *   Final (Buzzer)
+        
+*   **Registration Link:** [https://forms.gle/iCYtbokGMT79WAwF8](https://forms.gle/iCYtbokGMT79WAwF8)
+    
 
 ![](/images/EnginnerX_3.0_Sudoku&Crossword.jpg)
 
@@ -47,11 +58,12 @@ Think you’re the ultimate tech whiz? Compete in multiple quiz rounds on comput
 
 Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdown.
 
-- **Venue:** MPH, Academic Block
-
-- **Timing:** 9:00 AM - 10:30 AM
-
-- **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+*   **Venue:** MPH, Academic Block
+    
+*   **Timing:** 9:00 AM - 10:30 AM
+    
+*   **Registration Link:** [https://forms.gle/hGJk5y47BhhQT1yBA](https://forms.gle/hGJk5y47BhhQT1yBA)
+    
 
 ![](/images/EngineerX_3.0_Snake&Ladder.jpg)
 
@@ -59,8 +71,8 @@ Test your vocabulary, reasoning, and puzzle-solving power in this brainy showdow
 
 Roll the dice, relive childhood memories, and celebrate with fun & teamwork.
 
-- **Venue:** Porch Area
-
-- **Timing:** 10:00 AM onward
-
-- On spot entry
+*   **Venue:** Porch Area
+    
+*   **Timing:** 10:00 AM onward
+    
+*   On spot entry
