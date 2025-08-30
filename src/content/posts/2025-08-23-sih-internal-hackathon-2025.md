@@ -3,7 +3,7 @@ title: SIH INTERNAL HACKATHON 2025
 description: 🚀 Tech Geeks Presents — SIH INTERNAL HACKATHON 2025 💡
 published: 2025-08-20T12:00:00.000Z
 draft: false
-image: /images/sih_poster.jpg
+image: /images/SIH INTERNAL HACKATHON.png
 ---
 **🚀 Tech Geeks Presents — SIH INTERNAL HACKATHON 2025 💡**
 
