@@ -86,12 +86,12 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Discord",
 			icon: "fa6-brands:discord",
-			url: "https://discord.gg/ZdNcYFZnrB",
+			url: "https://discord.gg/techgeeksgehu",
 		},
 		{
 			name: "Telegram",
 			icon: "fa6-brands:telegram",
-			url: "https://t.me/techgeeksclub",
+			url: "https://t.me/techgeeksgehu",
 		},
 	],
 };
